@@ -1,0 +1,1630 @@
+2025-08-10 16:00:57,611 - INFO - Starting IMSS PDF download process...
+2025-08-10 16:00:58,051 - INFO - Total pages to process: 27
+2025-08-10 16:00:58,051 - INFO - Scraping page 1: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=0
+2025-08-10 16:01:25,922 - INFO - Found 20 GER PDF links on page 1
+2025-08-10 16:01:26,930 - INFO - Scraping page 2: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=1
+2025-08-10 16:01:27,145 - INFO - Found 20 GER PDF links on page 2
+2025-08-10 16:01:28,151 - INFO - Scraping page 3: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=2
+2025-08-10 16:01:28,343 - INFO - Found 20 GER PDF links on page 3
+2025-08-10 16:01:29,347 - INFO - Scraping page 4: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=3
+2025-08-10 16:01:29,553 - INFO - Found 20 GER PDF links on page 4
+2025-08-10 16:01:30,557 - INFO - Scraping page 5: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=4
+2025-08-10 16:01:30,725 - INFO - Found 20 GER PDF links on page 5
+2025-08-10 16:01:31,730 - INFO - Scraping page 6: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=5
+2025-08-10 16:01:31,897 - INFO - Found 20 GER PDF links on page 6
+2025-08-10 16:01:32,902 - INFO - Scraping page 7: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=6
+2025-08-10 16:01:33,085 - INFO - Found 20 GER PDF links on page 7
+2025-08-10 16:01:34,090 - INFO - Scraping page 8: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=7
+2025-08-10 16:01:34,422 - INFO - Found 20 GER PDF links on page 8
+2025-08-10 16:01:35,427 - INFO - Scraping page 9: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=8
+2025-08-10 16:01:35,785 - INFO - Found 20 GER PDF links on page 9
+2025-08-10 16:01:36,791 - INFO - Scraping page 10: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=9
+2025-08-10 16:01:36,978 - INFO - Found 20 GER PDF links on page 10
+2025-08-10 16:01:37,983 - INFO - Scraping page 11: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=10
+2025-08-10 16:01:38,153 - INFO - Found 20 GER PDF links on page 11
+2025-08-10 16:01:39,153 - INFO - Scraping page 12: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=11
+2025-08-10 16:01:39,423 - INFO - Found 20 GER PDF links on page 12
+2025-08-10 16:01:40,427 - INFO - Scraping page 13: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=12
+2025-08-10 16:02:07,644 - INFO - Found 20 GER PDF links on page 13
+2025-08-10 16:02:08,649 - INFO - Scraping page 14: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=13
+2025-08-10 16:02:36,202 - INFO - Found 20 GER PDF links on page 14
+2025-08-10 16:02:37,208 - INFO - Scraping page 15: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=14
+2025-08-10 16:03:04,599 - INFO - Found 20 GER PDF links on page 15
+2025-08-10 16:03:05,604 - INFO - Scraping page 16: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=15
+2025-08-10 16:03:05,821 - INFO - Found 20 GER PDF links on page 16
+2025-08-10 16:03:06,826 - INFO - Scraping page 17: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=16
+2025-08-10 16:03:07,047 - INFO - Found 20 GER PDF links on page 17
+2025-08-10 16:03:08,052 - INFO - Scraping page 18: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=17
+2025-08-10 16:03:08,239 - INFO - Found 20 GER PDF links on page 18
+2025-08-10 16:03:09,242 - INFO - Scraping page 19: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=18
+2025-08-10 16:03:09,606 - INFO - Found 20 GER PDF links on page 19
+2025-08-10 16:03:10,609 - INFO - Scraping page 20: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=19
+2025-08-10 16:03:10,830 - INFO - Found 20 GER PDF links on page 20
+2025-08-10 16:03:11,835 - INFO - Scraping page 21: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=20
+2025-08-10 16:03:39,260 - INFO - Found 20 GER PDF links on page 21
+2025-08-10 16:03:40,265 - INFO - Scraping page 22: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=21
+2025-08-10 16:04:07,733 - INFO - Found 20 GER PDF links on page 22
+2025-08-10 16:04:08,739 - INFO - Scraping page 23: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=22
+2025-08-10 16:04:09,001 - INFO - Found 20 GER PDF links on page 23
+2025-08-10 16:04:10,001 - INFO - Scraping page 24: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=23
+2025-08-10 16:04:10,302 - INFO - Found 20 GER PDF links on page 24
+2025-08-10 16:04:11,307 - INFO - Scraping page 25: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=24
+2025-08-10 16:04:11,795 - INFO - Found 20 GER PDF links on page 25
+2025-08-10 16:04:12,797 - INFO - Scraping page 26: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=25
+2025-08-10 16:04:12,960 - INFO - Found 20 GER PDF links on page 26
+2025-08-10 16:04:13,963 - INFO - Scraping page 27: https://www.imss.gob.mx/guias_practicaclinica?field_categoria_gs_value=All&page=26
+2025-08-10 16:04:14,115 - INFO - Found 3 GER PDF links on page 27
+2025-08-10 16:04:15,121 - INFO - Total GER PDFs found: 523
+2025-08-10 16:04:15,121 - INFO - Progress: 1/523
+2025-08-10 16:04:15,121 - INFO - Downloading: 081GER_1.pdf
+2025-08-10 16:04:16,149 - INFO - Successfully downloaded: 081GER_1.pdf
+2025-08-10 16:04:16,650 - INFO - Progress: 2/523
+2025-08-10 16:04:16,650 - INFO - Downloading: 635GER_0.pdf
+2025-08-10 16:04:18,415 - INFO - Successfully downloaded: 635GER_0.pdf
+2025-08-10 16:04:18,920 - INFO - Progress: 3/523
+2025-08-10 16:04:18,921 - INFO - Downloading: 499GER_0.pdf
+2025-08-10 16:04:22,264 - INFO - Successfully downloaded: 499GER_0.pdf
+2025-08-10 16:04:22,769 - INFO - Progress: 4/523
+2025-08-10 16:04:22,769 - INFO - Downloading: 436GER_.pdf
+2025-08-10 16:04:26,026 - INFO - Successfully downloaded: 436GER_.pdf
+2025-08-10 16:04:26,530 - INFO - Progress: 5/523
+2025-08-10 16:04:26,530 - INFO - Downloading: 075GER.pdf
+2025-08-10 16:04:27,579 - INFO - Successfully downloaded: 075GER.pdf
+2025-08-10 16:04:28,084 - INFO - Progress: 6/523
+2025-08-10 16:04:28,085 - INFO - Downloading: 637GER.pdf
+2025-08-10 16:04:30,091 - INFO - Successfully downloaded: 637GER.pdf
+2025-08-10 16:04:30,596 - INFO - Progress: 7/523
+2025-08-10 16:04:30,597 - INFO - Downloading: 818GER.pdf
+2025-08-10 16:04:31,794 - INFO - Successfully downloaded: 818GER.pdf
+2025-08-10 16:04:32,299 - INFO - Progress: 8/523
+2025-08-10 16:04:32,299 - INFO - Downloading: 419GER_1.pdf
+2025-08-10 16:04:33,830 - INFO - Successfully downloaded: 419GER_1.pdf
+2025-08-10 16:04:34,335 - INFO - Progress: 9/523
+2025-08-10 16:04:34,336 - INFO - Downloading: 539GER.pdf
+2025-08-10 16:04:35,821 - INFO - Successfully downloaded: 539GER.pdf
+2025-08-10 16:04:36,337 - INFO - Progress: 10/523
+2025-08-10 16:04:36,338 - INFO - Downloading: 000GER_OvariosPoliquisticos.pdf
+2025-08-10 16:04:38,020 - INFO - Successfully downloaded: 000GER_OvariosPoliquisticos.pdf
+2025-08-10 16:04:38,526 - INFO - Progress: 11/523
+2025-08-10 16:04:38,527 - INFO - Downloading: 000GERCardiopatiaIsquemica.pdf
+2025-08-10 16:04:39,779 - INFO - Successfully downloaded: 000GERCardiopatiaIsquemica.pdf
+2025-08-10 16:04:40,283 - INFO - Progress: 12/523
+2025-08-10 16:04:40,283 - INFO - Downloading: 380GER.pdf
+2025-08-10 16:04:41,589 - INFO - Successfully downloaded: 380GER.pdf
+2025-08-10 16:04:42,092 - INFO - Progress: 13/523
+2025-08-10 16:04:42,093 - INFO - Downloading: 589GER.pdf
+2025-08-10 16:04:44,708 - INFO - Successfully downloaded: 589GER.pdf
+2025-08-10 16:04:45,209 - INFO - Progress: 14/523
+2025-08-10 16:04:45,209 - INFO - Downloading: 262GER.pdf
+2025-08-10 16:04:47,986 - INFO - Successfully downloaded: 262GER.pdf
+2025-08-10 16:04:48,490 - INFO - Progress: 15/523
+2025-08-10 16:04:48,491 - INFO - Downloading: 609GER.pdf
+2025-08-10 16:04:49,380 - INFO - Successfully downloaded: 609GER.pdf
+2025-08-10 16:04:49,882 - INFO - Progress: 16/523
+2025-08-10 16:04:49,883 - INFO - Downloading: 459GER.pdf
+2025-08-10 16:04:51,270 - INFO - Successfully downloaded: 459GER.pdf
+2025-08-10 16:04:51,775 - INFO - Progress: 17/523
+2025-08-10 16:04:51,775 - INFO - Downloading: 360GER.pdf
+2025-08-10 16:04:52,982 - INFO - Successfully downloaded: 360GER.pdf
+2025-08-10 16:04:53,486 - INFO - Progress: 18/523
+2025-08-10 16:04:53,486 - INFO - Downloading: 143GER.pdf
+2025-08-10 16:04:54,927 - INFO - Successfully downloaded: 143GER.pdf
+2025-08-10 16:04:55,432 - INFO - Progress: 19/523
+2025-08-10 16:04:55,432 - INFO - Downloading: 335GER.pdf
+2025-08-10 16:04:56,627 - INFO - Successfully downloaded: 335GER.pdf
+2025-08-10 16:04:57,132 - INFO - Progress: 20/523
+2025-08-10 16:04:57,132 - INFO - Downloading: 052GER.pdf
+2025-08-10 16:04:58,263 - INFO - Successfully downloaded: 052GER.pdf
+2025-08-10 16:04:58,766 - INFO - Progress: 21/523
+2025-08-10 16:04:58,767 - INFO - Downloading: 030GER.pdf
+2025-08-10 16:05:00,437 - INFO - Successfully downloaded: 030GER.pdf
+2025-08-10 16:05:00,944 - INFO - Progress: 22/523
+2025-08-10 16:05:00,944 - INFO - Downloading: 829GER.pdf
+2025-08-10 16:05:03,268 - INFO - Successfully downloaded: 829GER.pdf
+2025-08-10 16:05:03,772 - INFO - Progress: 23/523
+2025-08-10 16:05:03,772 - INFO - Downloading: 704GER.pdf
+2025-08-10 16:05:04,784 - INFO - Successfully downloaded: 704GER.pdf
+2025-08-10 16:05:05,289 - INFO - Progress: 24/523
+2025-08-10 16:05:05,289 - INFO - Downloading: 673GER.pdf
+2025-08-10 16:05:06,793 - INFO - Successfully downloaded: 673GER.pdf
+2025-08-10 16:05:07,298 - INFO - Progress: 25/523
+2025-08-10 16:05:07,298 - INFO - Downloading: 672GER.pdf
+2025-08-10 16:05:08,640 - INFO - Successfully downloaded: 672GER.pdf
+2025-08-10 16:05:09,145 - INFO - Progress: 26/523
+2025-08-10 16:05:09,145 - INFO - Downloading: 643GER.pdf
+2025-08-10 16:05:10,069 - INFO - Successfully downloaded: 643GER.pdf
+2025-08-10 16:05:10,574 - INFO - Progress: 27/523
+2025-08-10 16:05:10,574 - INFO - Downloading: 442GER.pdf
+2025-08-10 16:05:11,428 - INFO - Successfully downloaded: 442GER.pdf
+2025-08-10 16:05:11,933 - INFO - Progress: 28/523
+2025-08-10 16:05:11,933 - INFO - Downloading: 435GER.pdf
+2025-08-10 16:05:14,476 - INFO - Successfully downloaded: 435GER.pdf
+2025-08-10 16:05:14,981 - INFO - Progress: 29/523
+2025-08-10 16:05:14,982 - INFO - Downloading: 425GER.pdf
+2025-08-10 16:05:16,727 - INFO - Successfully downloaded: 425GER.pdf
+2025-08-10 16:05:17,233 - INFO - Progress: 30/523
+2025-08-10 16:05:17,233 - INFO - Downloading: 373GER.pdf
+2025-08-10 16:05:19,793 - INFO - Successfully downloaded: 373GER.pdf
+2025-08-10 16:05:20,298 - INFO - Progress: 31/523
+2025-08-10 16:05:20,298 - INFO - Downloading: 272GER.pdf
+2025-08-10 16:05:21,724 - INFO - Successfully downloaded: 272GER.pdf
+2025-08-10 16:05:22,228 - INFO - Progress: 32/523
+2025-08-10 16:05:22,230 - INFO - Downloading: 140GER.pdf
+2025-08-10 16:05:24,440 - INFO - Successfully downloaded: 140GER.pdf
+2025-08-10 16:05:24,941 - INFO - Progress: 33/523
+2025-08-10 16:05:24,941 - INFO - Downloading: 046GER.pdf
+2025-08-10 16:05:25,976 - INFO - Successfully downloaded: 046GER.pdf
+2025-08-10 16:05:26,478 - INFO - Progress: 34/523
+2025-08-10 16:05:26,479 - INFO - Downloading: IMSS-050-18_050GER.pdf
+2025-08-10 16:05:27,979 - INFO - Successfully downloaded: IMSS-050-18_050GER.pdf
+2025-08-10 16:05:28,483 - INFO - Progress: 35/523
+2025-08-10 16:05:28,483 - INFO - Downloading: IMSS-142-18_142GER.pdf
+2025-08-10 16:05:29,739 - INFO - Successfully downloaded: IMSS-142-18_142GER.pdf
+2025-08-10 16:05:30,240 - INFO - Progress: 36/523
+2025-08-10 16:05:30,240 - INFO - Downloading: IMSS-176-18_176GER.pdf
+2025-08-10 16:05:31,210 - INFO - Successfully downloaded: IMSS-176-18_176GER.pdf
+2025-08-10 16:05:31,715 - INFO - Progress: 37/523
+2025-08-10 16:05:31,716 - INFO - Downloading: IMSS-191-18_191GER.pdf
+2025-08-10 16:05:32,687 - INFO - Successfully downloaded: IMSS-191-18_191GER.pdf
+2025-08-10 16:05:33,191 - INFO - Progress: 38/523
+2025-08-10 16:05:33,191 - INFO - Downloading: IMSS-563-18_563GER.pdf
+2025-08-10 16:05:34,926 - INFO - Successfully downloaded: IMSS-563-18_563GER.pdf
+2025-08-10 16:05:35,430 - INFO - Progress: 39/523
+2025-08-10 16:05:35,430 - INFO - Downloading: IMSS-603-18_603GER.pdf
+2025-08-10 16:05:36,754 - INFO - Successfully downloaded: IMSS-603-18_603GER.pdf
+2025-08-10 16:05:37,260 - INFO - Progress: 40/523
+2025-08-10 16:05:37,260 - INFO - Downloading: IMSS-604-18_604GER.pdf
+2025-08-10 16:05:38,518 - INFO - Successfully downloaded: IMSS-604-18_604GER.pdf
+2025-08-10 16:05:39,023 - INFO - Progress: 41/523
+2025-08-10 16:05:39,023 - INFO - Downloading: 190GER.pdf
+2025-08-10 16:05:44,212 - INFO - Successfully downloaded: 190GER.pdf
+2025-08-10 16:05:44,715 - INFO - Progress: 42/523
+2025-08-10 16:05:44,715 - INFO - Downloading: 141GER.pdf
+2025-08-10 16:05:46,985 - INFO - Successfully downloaded: 141GER.pdf
+2025-08-10 16:05:47,490 - INFO - Progress: 43/523
+2025-08-10 16:05:47,490 - INFO - Downloading: 051GER.pdf
+2025-08-10 16:05:49,056 - INFO - Successfully downloaded: 051GER.pdf
+2025-08-10 16:05:49,561 - INFO - Progress: 44/523
+2025-08-10 16:05:49,562 - INFO - Downloading: 556GER.pdf
+2025-08-10 16:05:50,150 - INFO - Successfully downloaded: 556GER.pdf
+2025-08-10 16:05:50,655 - INFO - Progress: 45/523
+2025-08-10 16:05:50,655 - INFO - Downloading: 594GER.pdf
+2025-08-10 16:05:51,362 - INFO - Successfully downloaded: 594GER.pdf
+2025-08-10 16:05:51,867 - INFO - Progress: 46/523
+2025-08-10 16:05:51,867 - INFO - Downloading: 634GER.pdf
+2025-08-10 16:05:53,659 - INFO - Successfully downloaded: 634GER.pdf
+2025-08-10 16:05:54,170 - INFO - Progress: 47/523
+2025-08-10 16:05:54,170 - INFO - Downloading: 718GER.pdf
+2025-08-10 16:05:55,425 - INFO - Successfully downloaded: 718GER.pdf
+2025-08-10 16:05:55,932 - INFO - Progress: 48/523
+2025-08-10 16:05:55,932 - INFO - Downloading: 827_20GER_InfeccionSitioQuirurgico_2018.pdf
+2025-08-10 16:05:56,892 - INFO - Successfully downloaded: 827_20GER_InfeccionSitioQuirurgico_2018.pdf
+2025-08-10 16:05:57,398 - INFO - Progress: 49/523
+2025-08-10 16:05:57,398 - INFO - Downloading: 826GER_0.pdf
+2025-08-10 16:05:58,302 - INFO - Successfully downloaded: 826GER_0.pdf
+2025-08-10 16:05:59,023 - INFO - Progress: 50/523
+2025-08-10 16:05:59,064 - INFO - Downloading: 362GER.pdf
+2025-08-10 16:06:01,248 - INFO - Successfully downloaded: 362GER.pdf
+2025-08-10 16:06:01,750 - INFO - Progress: 51/523
+2025-08-10 16:06:01,750 - INFO - Downloading: 586GER.pdf
+2025-08-10 16:06:02,505 - INFO - Successfully downloaded: 586GER.pdf
+2025-08-10 16:06:03,011 - INFO - Progress: 52/523
+2025-08-10 16:06:03,012 - INFO - Downloading: 440GER.pdf
+2025-08-10 16:06:04,489 - INFO - Successfully downloaded: 440GER.pdf
+2025-08-10 16:06:04,995 - INFO - Progress: 53/523
+2025-08-10 16:06:04,995 - INFO - Downloading: 814GER.pdf
+2025-08-10 16:06:05,785 - INFO - Successfully downloaded: 814GER.pdf
+2025-08-10 16:06:06,290 - INFO - Progress: 54/523
+2025-08-10 16:06:06,291 - INFO - Downloading: 115GER.pdf
+2025-08-10 16:06:07,065 - INFO - Successfully downloaded: 115GER.pdf
+2025-08-10 16:06:07,565 - INFO - Progress: 55/523
+2025-08-10 16:06:07,566 - INFO - Downloading: 430GER.pdf
+2025-08-10 16:06:08,362 - INFO - Successfully downloaded: 430GER.pdf
+2025-08-10 16:06:08,866 - INFO - Progress: 56/523
+2025-08-10 16:06:08,866 - INFO - Downloading: 434GER.pdf
+2025-08-10 16:06:09,667 - INFO - Successfully downloaded: 434GER.pdf
+2025-08-10 16:06:10,171 - INFO - Progress: 57/523
+2025-08-10 16:06:10,172 - INFO - Downloading: 234GER.pdf
+2025-08-10 16:06:11,439 - INFO - Successfully downloaded: 234GER.pdf
+2025-08-10 16:06:11,941 - INFO - Progress: 58/523
+2025-08-10 16:06:11,942 - INFO - Downloading: 162GER.pdf
+2025-08-10 16:06:14,034 - INFO - Successfully downloaded: 162GER.pdf
+2025-08-10 16:06:14,540 - INFO - Progress: 59/523
+2025-08-10 16:06:14,540 - INFO - Downloading: 058GER.pdf
+2025-08-10 16:06:15,711 - INFO - Successfully downloaded: 058GER.pdf
+2025-08-10 16:06:16,216 - INFO - Progress: 60/523
+2025-08-10 16:06:16,217 - INFO - Downloading: 028GER.pdf
+2025-08-10 16:06:18,449 - INFO - Successfully downloaded: 028GER.pdf
+2025-08-10 16:06:18,953 - INFO - Progress: 61/523
+2025-08-10 16:06:18,953 - INFO - Downloading: 393GER.pdf
+2025-08-10 16:06:20,919 - INFO - Successfully downloaded: 393GER.pdf
+2025-08-10 16:06:21,423 - INFO - Progress: 62/523
+2025-08-10 16:06:21,428 - INFO - Downloading: 330GER.pdf
+2025-08-10 16:06:22,135 - INFO - Successfully downloaded: 330GER.pdf
+2025-08-10 16:06:22,640 - INFO - Progress: 63/523
+2025-08-10 16:06:22,641 - INFO - Downloading: 238GER.pdf
+2025-08-10 16:06:24,347 - INFO - Successfully downloaded: 238GER.pdf
+2025-08-10 16:06:24,851 - INFO - Progress: 64/523
+2025-08-10 16:06:24,851 - INFO - Downloading: 041GER.pdf
+2025-08-10 16:06:25,769 - INFO - Successfully downloaded: 041GER.pdf
+2025-08-10 16:06:26,271 - INFO - Progress: 65/523
+2025-08-10 16:06:26,272 - INFO - Downloading: 633GER.pdf
+2025-08-10 16:06:27,318 - INFO - Successfully downloaded: 633GER.pdf
+2025-08-10 16:06:27,823 - INFO - Progress: 66/523
+2025-08-10 16:06:27,824 - INFO - Downloading: 560GER.pdf
+2025-08-10 16:06:29,036 - INFO - Successfully downloaded: 560GER.pdf
+2025-08-10 16:06:29,539 - INFO - Progress: 67/523
+2025-08-10 16:06:29,539 - INFO - Downloading: 536GER.pdf
+2025-08-10 16:06:30,668 - INFO - Successfully downloaded: 536GER.pdf
+2025-08-10 16:06:31,174 - INFO - Progress: 68/523
+2025-08-10 16:06:31,174 - INFO - Downloading: 463GER.pdf
+2025-08-10 16:06:31,949 - INFO - Successfully downloaded: 463GER.pdf
+2025-08-10 16:06:32,451 - INFO - Progress: 69/523
+2025-08-10 16:06:32,451 - INFO - Downloading: 388GER.pdf
+2025-08-10 16:06:33,157 - INFO - Successfully downloaded: 388GER.pdf
+2025-08-10 16:06:33,661 - INFO - Progress: 70/523
+2025-08-10 16:06:33,661 - INFO - Downloading: 371GER.pdf
+2025-08-10 16:06:34,683 - INFO - Successfully downloaded: 371GER.pdf
+2025-08-10 16:06:35,185 - INFO - Progress: 71/523
+2025-08-10 16:06:35,185 - INFO - Downloading: 087GER.pdf
+2025-08-10 16:06:36,392 - INFO - Successfully downloaded: 087GER.pdf
+2025-08-10 16:06:36,893 - INFO - Progress: 72/523
+2025-08-10 16:06:36,896 - INFO - Downloading: 063GER.pdf
+2025-08-10 16:06:37,830 - INFO - Successfully downloaded: 063GER.pdf
+2025-08-10 16:06:38,335 - INFO - Progress: 73/523
+2025-08-10 16:06:38,336 - INFO - Downloading: 165GER.pdf
+2025-08-10 16:06:40,049 - INFO - Successfully downloaded: 165GER.pdf
+2025-08-10 16:06:40,553 - INFO - Progress: 74/523
+2025-08-10 16:06:40,554 - INFO - Downloading: 805GER.pdf
+2025-08-10 16:06:41,413 - INFO - Successfully downloaded: 805GER.pdf
+2025-08-10 16:06:41,918 - INFO - Progress: 75/523
+2025-08-10 16:06:41,919 - INFO - Downloading: 376GER.pdf
+2025-08-10 16:06:42,764 - INFO - Successfully downloaded: 376GER.pdf
+2025-08-10 16:06:43,266 - INFO - Progress: 76/523
+2025-08-10 16:06:43,266 - INFO - Downloading: 375GER.pdf
+2025-08-10 16:06:44,814 - INFO - Successfully downloaded: 375GER.pdf
+2025-08-10 16:06:45,317 - INFO - Progress: 77/523
+2025-08-10 16:06:45,319 - INFO - Downloading: 806GER.pdf
+2025-08-10 16:06:46,675 - INFO - Successfully downloaded: 806GER.pdf
+2025-08-10 16:06:47,180 - INFO - Progress: 78/523
+2025-08-10 16:06:47,180 - INFO - Downloading: 345GER.pdf
+2025-08-10 16:06:48,078 - INFO - Successfully downloaded: 345GER.pdf
+2025-08-10 16:06:48,583 - INFO - Progress: 79/523
+2025-08-10 16:06:48,583 - INFO - Downloading: 366GER.pdf
+2025-08-10 16:06:49,957 - INFO - Successfully downloaded: 366GER.pdf
+2025-08-10 16:06:50,479 - INFO - Progress: 80/523
+2025-08-10 16:06:50,479 - INFO - Downloading: 351GER.pdf
+2025-08-10 16:06:51,281 - INFO - Successfully downloaded: 351GER.pdf
+2025-08-10 16:06:51,786 - INFO - Progress: 81/523
+2025-08-10 16:06:51,786 - INFO - Downloading: 344GER.pdf
+2025-08-10 16:06:52,474 - INFO - Successfully downloaded: 344GER.pdf
+2025-08-10 16:06:52,978 - INFO - Progress: 82/523
+2025-08-10 16:06:52,979 - INFO - Downloading: 251GER.pdf
+2025-08-10 16:06:53,895 - INFO - Successfully downloaded: 251GER.pdf
+2025-08-10 16:06:54,398 - INFO - Progress: 83/523
+2025-08-10 16:06:54,398 - INFO - Downloading: 247GER.pdf
+2025-08-10 16:06:55,335 - INFO - Successfully downloaded: 247GER.pdf
+2025-08-10 16:06:55,841 - INFO - Progress: 84/523
+2025-08-10 16:06:55,841 - INFO - Downloading: 230GER.pdf
+2025-08-10 16:06:56,776 - INFO - Successfully downloaded: 230GER.pdf
+2025-08-10 16:06:57,281 - INFO - Progress: 85/523
+2025-08-10 16:06:57,281 - INFO - Downloading: 225GER.pdf
+2025-08-10 16:06:58,540 - INFO - Successfully downloaded: 225GER.pdf
+2025-08-10 16:06:59,042 - INFO - Progress: 86/523
+2025-08-10 16:06:59,042 - INFO - Downloading: 692GER.pdf
+2025-08-10 16:07:01,134 - INFO - Successfully downloaded: 692GER.pdf
+2025-08-10 16:07:01,640 - INFO - Progress: 87/523
+2025-08-10 16:07:01,640 - INFO - Downloading: 797GER.pdf
+2025-08-10 16:07:02,333 - INFO - Successfully downloaded: 797GER.pdf
+2025-08-10 16:07:02,834 - INFO - Progress: 88/523
+2025-08-10 16:07:02,834 - INFO - Downloading: 796GER.pdf
+2025-08-10 16:07:03,526 - INFO - Successfully downloaded: 796GER.pdf
+2025-08-10 16:07:04,031 - INFO - Progress: 89/523
+2025-08-10 16:07:04,032 - INFO - Downloading: 795GER.pdf
+2025-08-10 16:07:04,512 - INFO - Successfully downloaded: 795GER.pdf
+2025-08-10 16:07:05,017 - INFO - Progress: 90/523
+2025-08-10 16:07:05,017 - INFO - Downloading: 794GER.pdf
+2025-08-10 16:07:05,831 - INFO - Successfully downloaded: 794GER.pdf
+2025-08-10 16:07:06,336 - INFO - Progress: 91/523
+2025-08-10 16:07:06,336 - INFO - Downloading: 793GER.pdf
+2025-08-10 16:07:08,153 - INFO - Successfully downloaded: 793GER.pdf
+2025-08-10 16:07:08,656 - INFO - Progress: 92/523
+2025-08-10 16:07:08,656 - INFO - Downloading: 285GER.pdf
+2025-08-10 16:07:10,427 - INFO - Successfully downloaded: 285GER.pdf
+2025-08-10 16:07:10,930 - INFO - Progress: 93/523
+2025-08-10 16:07:10,931 - INFO - Downloading: 782GER.pdf
+2025-08-10 16:07:12,478 - INFO - Successfully downloaded: 782GER.pdf
+2025-08-10 16:07:12,983 - INFO - Progress: 94/523
+2025-08-10 16:07:12,984 - INFO - Downloading: 781GER.pdf
+2025-08-10 16:07:14,392 - INFO - Successfully downloaded: 781GER.pdf
+2025-08-10 16:07:14,898 - INFO - Progress: 95/523
+2025-08-10 16:07:14,899 - INFO - Downloading: 780GER.pdf
+2025-08-10 16:07:16,064 - INFO - Successfully downloaded: 780GER.pdf
+2025-08-10 16:07:16,568 - INFO - Progress: 96/523
+2025-08-10 16:07:16,582 - INFO - Downloading: 779GER.pdf
+2025-08-10 16:07:17,936 - INFO - Successfully downloaded: 779GER.pdf
+2025-08-10 16:07:18,441 - INFO - Progress: 97/523
+2025-08-10 16:07:18,442 - INFO - Downloading: 778GER.pdf
+2025-08-10 16:07:19,791 - INFO - Successfully downloaded: 778GER.pdf
+2025-08-10 16:07:20,294 - INFO - Progress: 98/523
+2025-08-10 16:07:20,294 - INFO - Downloading: 777GER.pdf
+2025-08-10 16:07:21,350 - INFO - Successfully downloaded: 777GER.pdf
+2025-08-10 16:07:21,855 - INFO - Progress: 99/523
+2025-08-10 16:07:21,855 - INFO - Downloading: 776GER.pdf
+2025-08-10 16:07:22,963 - INFO - Successfully downloaded: 776GER.pdf
+2025-08-10 16:07:23,468 - INFO - Progress: 100/523
+2025-08-10 16:07:23,468 - INFO - Downloading: 775GER.pdf
+2025-08-10 16:07:24,382 - INFO - Successfully downloaded: 775GER.pdf
+2025-08-10 16:07:24,885 - INFO - Progress: 101/523
+2025-08-10 16:07:24,886 - INFO - Downloading: 774GER.pdf
+2025-08-10 16:07:26,461 - INFO - Successfully downloaded: 774GER.pdf
+2025-08-10 16:07:26,967 - INFO - Progress: 102/523
+2025-08-10 16:07:26,967 - INFO - Downloading: 773GER.pdf
+2025-08-10 16:07:28,408 - INFO - Successfully downloaded: 773GER.pdf
+2025-08-10 16:07:28,914 - INFO - Progress: 103/523
+2025-08-10 16:07:28,914 - INFO - Downloading: 395GER.pdf
+2025-08-10 16:07:33,511 - INFO - Successfully downloaded: 395GER.pdf
+2025-08-10 16:07:34,016 - INFO - Progress: 104/523
+2025-08-10 16:07:34,017 - INFO - Downloading: 120GER.pdf
+2025-08-10 16:07:35,394 - INFO - Successfully downloaded: 120GER.pdf
+2025-08-10 16:07:35,898 - INFO - Progress: 105/523
+2025-08-10 16:07:35,898 - INFO - Downloading: 161GER.pdf
+2025-08-10 16:07:37,009 - INFO - Successfully downloaded: 161GER.pdf
+2025-08-10 16:07:37,514 - INFO - Progress: 106/523
+2025-08-10 16:07:37,514 - INFO - Downloading: 114GER.pdf
+2025-08-10 16:07:38,761 - INFO - Successfully downloaded: 114GER.pdf
+2025-08-10 16:07:39,263 - INFO - Progress: 107/523
+2025-08-10 16:07:39,263 - INFO - Downloading: 104GER.pdf
+2025-08-10 16:07:42,226 - INFO - Successfully downloaded: 104GER.pdf
+2025-08-10 16:07:42,731 - INFO - Progress: 108/523
+2025-08-10 16:07:42,732 - INFO - Downloading: 065GER.pdf
+2025-08-10 16:07:44,485 - INFO - Successfully downloaded: 065GER.pdf
+2025-08-10 16:07:44,989 - INFO - Progress: 109/523
+2025-08-10 16:07:44,989 - INFO - Downloading: 035GER.pdf
+2025-08-10 16:07:46,175 - INFO - Successfully downloaded: 035GER.pdf
+2025-08-10 16:07:46,678 - INFO - Progress: 110/523
+2025-08-10 16:07:46,678 - INFO - Downloading: 032GER.pdf
+2025-08-10 16:07:47,865 - INFO - Successfully downloaded: 032GER.pdf
+2025-08-10 16:07:48,370 - INFO - Progress: 111/523
+2025-08-10 16:07:48,370 - INFO - Downloading: 029GER.pdf
+2025-08-10 16:07:50,492 - INFO - Successfully downloaded: 029GER.pdf
+2025-08-10 16:07:50,998 - INFO - Progress: 112/523
+2025-08-10 16:07:50,998 - INFO - Downloading: 095GER.pdf
+2025-08-10 16:07:52,548 - INFO - Successfully downloaded: 095GER.pdf
+2025-08-10 16:07:53,051 - INFO - Progress: 113/523
+2025-08-10 16:07:53,052 - INFO - Downloading: 617GER.pdf
+2025-08-10 16:07:54,943 - INFO - Successfully downloaded: 617GER.pdf
+2025-08-10 16:07:55,450 - INFO - Progress: 114/523
+2025-08-10 16:07:55,450 - INFO - Downloading: 411GER.pdf
+2025-08-10 16:07:57,113 - INFO - Successfully downloaded: 411GER.pdf
+2025-08-10 16:07:57,618 - INFO - Progress: 115/523
+2025-08-10 16:07:57,618 - INFO - Downloading: 383GER.pdf
+2025-08-10 16:07:58,849 - INFO - Successfully downloaded: 383GER.pdf
+2025-08-10 16:07:59,353 - INFO - Progress: 116/523
+2025-08-10 16:07:59,354 - INFO - Downloading: 228GER.pdf
+2025-08-10 16:08:00,614 - INFO - Successfully downloaded: 228GER.pdf
+2025-08-10 16:08:01,118 - INFO - Progress: 117/523
+2025-08-10 16:08:01,119 - INFO - Downloading: 715GER.pdf
+2025-08-10 16:08:03,115 - INFO - Successfully downloaded: 715GER.pdf
+2025-08-10 16:08:03,617 - INFO - Progress: 118/523
+2025-08-10 16:08:03,617 - INFO - Downloading: 071GER.pdf
+2025-08-10 16:08:04,728 - INFO - Successfully downloaded: 071GER.pdf
+2025-08-10 16:08:05,232 - INFO - Progress: 119/523
+2025-08-10 16:08:05,233 - INFO - Downloading: 750GER.pdf
+2025-08-10 16:08:06,390 - INFO - Successfully downloaded: 750GER.pdf
+2025-08-10 16:08:06,896 - INFO - Progress: 120/523
+2025-08-10 16:08:06,896 - INFO - Downloading: 757GER.pdf
+2025-08-10 16:08:18,462 - INFO - Successfully downloaded: 757GER.pdf
+2025-08-10 16:08:18,966 - INFO - Progress: 121/523
+2025-08-10 16:08:18,966 - INFO - Downloading: 755GER.pdf
+2025-08-10 16:08:19,960 - INFO - Successfully downloaded: 755GER.pdf
+2025-08-10 16:08:20,463 - INFO - Progress: 122/523
+2025-08-10 16:08:20,464 - INFO - Downloading: 754GER.pdf
+2025-08-10 16:08:21,492 - INFO - Successfully downloaded: 754GER.pdf
+2025-08-10 16:08:21,998 - INFO - Progress: 123/523
+2025-08-10 16:08:21,998 - INFO - Downloading: 752GER.pdf
+2025-08-10 16:08:23,178 - INFO - Successfully downloaded: 752GER.pdf
+2025-08-10 16:08:23,681 - INFO - Progress: 124/523
+2025-08-10 16:08:23,681 - INFO - Downloading: 751GER.pdf
+2025-08-10 16:08:24,459 - INFO - Successfully downloaded: 751GER.pdf
+2025-08-10 16:08:24,961 - INFO - Progress: 125/523
+2025-08-10 16:08:24,961 - INFO - Downloading: 187GER.pdf
+2025-08-10 16:08:25,824 - INFO - Successfully downloaded: 187GER.pdf
+2025-08-10 16:08:26,327 - INFO - Progress: 126/523
+2025-08-10 16:08:26,327 - INFO - Downloading: 384GER.pdf
+2025-08-10 16:08:32,796 - INFO - Successfully downloaded: 384GER.pdf
+2025-08-10 16:08:33,301 - INFO - Progress: 127/523
+2025-08-10 16:08:33,302 - INFO - Downloading: 281GER.pdf
+2025-08-10 16:08:34,041 - INFO - Successfully downloaded: 281GER.pdf
+2025-08-10 16:08:34,547 - INFO - Progress: 128/523
+2025-08-10 16:08:34,547 - INFO - Downloading: 171GER.pdf
+2025-08-10 16:08:35,319 - INFO - Successfully downloaded: 171GER.pdf
+2025-08-10 16:08:35,819 - INFO - Progress: 129/523
+2025-08-10 16:08:35,820 - INFO - Downloading: 039GER.pdf
+2025-08-10 16:08:36,751 - INFO - Successfully downloaded: 039GER.pdf
+2025-08-10 16:08:37,254 - INFO - Progress: 130/523
+2025-08-10 16:08:37,255 - INFO - Downloading: 736GER.pdf
+2025-08-10 16:08:49,586 - INFO - Successfully downloaded: 736GER.pdf
+2025-08-10 16:08:50,090 - INFO - Progress: 131/523
+2025-08-10 16:08:50,091 - INFO - Downloading: 739GER.pdf
+2025-08-10 16:08:50,685 - INFO - Successfully downloaded: 739GER.pdf
+2025-08-10 16:08:51,189 - INFO - Progress: 132/523
+2025-08-10 16:08:51,190 - INFO - Downloading: 738GER.pdf
+2025-08-10 16:08:51,973 - INFO - Successfully downloaded: 738GER.pdf
+2025-08-10 16:08:52,475 - INFO - Progress: 133/523
+2025-08-10 16:08:52,475 - INFO - Downloading: 737GER.pdf
+2025-08-10 16:08:53,817 - INFO - Successfully downloaded: 737GER.pdf
+2025-08-10 16:08:54,343 - INFO - Progress: 134/523
+2025-08-10 16:08:54,343 - INFO - Downloading: 734GER.pdf
+2025-08-10 16:08:56,827 - INFO - Successfully downloaded: 734GER.pdf
+2025-08-10 16:08:57,331 - INFO - Progress: 135/523
+2025-08-10 16:08:57,331 - INFO - Downloading: 731GER.pdf
+2025-08-10 16:08:59,973 - INFO - Successfully downloaded: 731GER.pdf
+2025-08-10 16:09:00,477 - INFO - Progress: 136/523
+2025-08-10 16:09:00,477 - INFO - Downloading: 730GER.pdf
+2025-08-10 16:09:04,007 - INFO - Successfully downloaded: 730GER.pdf
+2025-08-10 16:09:04,508 - INFO - Progress: 137/523
+2025-08-10 16:09:04,510 - INFO - Downloading: 732GER.pdf
+2025-08-10 16:09:07,083 - INFO - Successfully downloaded: 732GER.pdf
+2025-08-10 16:09:07,585 - INFO - Progress: 138/523
+2025-08-10 16:09:07,586 - INFO - Downloading: 735GER.pdf
+2025-08-10 16:09:16,839 - INFO - Successfully downloaded: 735GER.pdf
+2025-08-10 16:09:17,345 - INFO - Progress: 139/523
+2025-08-10 16:09:17,345 - INFO - Downloading: 733GER.pdf
+2025-08-10 16:09:19,600 - INFO - Successfully downloaded: 733GER.pdf
+2025-08-10 16:09:20,105 - INFO - Progress: 140/523
+2025-08-10 16:09:20,105 - INFO - Downloading: 479GER_0.pdf
+2025-08-10 16:09:21,506 - INFO - Successfully downloaded: 479GER_0.pdf
+2025-08-10 16:09:22,011 - INFO - Progress: 141/523
+2025-08-10 16:09:22,011 - INFO - Downloading: 687GER_0.pdf
+2025-08-10 16:09:23,567 - INFO - Successfully downloaded: 687GER_0.pdf
+2025-08-10 16:09:24,072 - INFO - Progress: 142/523
+2025-08-10 16:09:24,072 - INFO - Downloading: 273GER.pdf
+2025-08-10 16:09:26,149 - INFO - Successfully downloaded: 273GER.pdf
+2025-08-10 16:09:26,654 - INFO - Progress: 143/523
+2025-08-10 16:09:26,654 - INFO - Downloading: 056GER.pdf
+2025-08-10 16:09:27,855 - INFO - Successfully downloaded: 056GER.pdf
+2025-08-10 16:09:28,356 - INFO - Progress: 144/523
+2025-08-10 16:09:28,356 - INFO - Downloading: 570GER.pdf
+2025-08-10 16:09:30,354 - INFO - Successfully downloaded: 570GER.pdf
+2025-08-10 16:09:30,859 - INFO - Progress: 145/523
+2025-08-10 16:09:30,859 - INFO - Downloading: 723GER.pdf
+2025-08-10 16:09:37,483 - INFO - Successfully downloaded: 723GER.pdf
+2025-08-10 16:09:37,984 - INFO - Progress: 146/523
+2025-08-10 16:09:37,985 - INFO - Downloading: 727GER.pdf
+2025-08-10 16:09:39,878 - INFO - Successfully downloaded: 727GER.pdf
+2025-08-10 16:09:40,384 - INFO - Progress: 147/523
+2025-08-10 16:09:40,385 - INFO - Downloading: 724GER.pdf
+2025-08-10 16:09:42,953 - INFO - Successfully downloaded: 724GER.pdf
+2025-08-10 16:09:43,458 - INFO - Progress: 148/523
+2025-08-10 16:09:43,463 - INFO - Downloading: 725GER.pdf
+2025-08-10 16:09:44,984 - INFO - Successfully downloaded: 725GER.pdf
+2025-08-10 16:09:45,487 - INFO - Progress: 149/523
+2025-08-10 16:09:45,488 - INFO - Downloading: 726GER.pdf
+2025-08-10 16:09:48,595 - INFO - Successfully downloaded: 726GER.pdf
+2025-08-10 16:09:49,100 - INFO - Progress: 150/523
+2025-08-10 16:09:49,100 - INFO - Downloading: 468GER.pdf
+2025-08-10 16:09:55,249 - INFO - Successfully downloaded: 468GER.pdf
+2025-08-10 16:09:55,754 - INFO - Progress: 151/523
+2025-08-10 16:09:55,755 - INFO - Downloading: 076GER.pdf
+2025-08-10 16:09:58,602 - INFO - Successfully downloaded: 076GER.pdf
+2025-08-10 16:09:59,105 - INFO - Progress: 152/523
+2025-08-10 16:09:59,105 - INFO - Downloading: 569GER.pdf
+2025-08-10 16:10:01,088 - INFO - Successfully downloaded: 569GER.pdf
+2025-08-10 16:10:01,591 - INFO - Progress: 153/523
+2025-08-10 16:10:01,592 - INFO - Downloading: 535GER.pdf
+2025-08-10 16:10:03,931 - INFO - Successfully downloaded: 535GER.pdf
+2025-08-10 16:10:04,436 - INFO - Progress: 154/523
+2025-08-10 16:10:04,436 - INFO - Downloading: 524GER.pdf
+2025-08-10 16:10:07,486 - INFO - Successfully downloaded: 524GER.pdf
+2025-08-10 16:10:07,991 - INFO - Progress: 155/523
+2025-08-10 16:10:07,992 - INFO - Downloading: 464GER.pdf
+2025-08-10 16:10:09,545 - INFO - Successfully downloaded: 464GER.pdf
+2025-08-10 16:10:10,050 - INFO - Progress: 156/523
+2025-08-10 16:10:10,051 - INFO - Downloading: 433GER.pdf
+2025-08-10 16:10:11,496 - INFO - Successfully downloaded: 433GER.pdf
+2025-08-10 16:10:12,001 - INFO - Progress: 157/523
+2025-08-10 16:10:12,001 - INFO - Downloading: 431GER.pdf
+2025-08-10 16:10:16,960 - INFO - Successfully downloaded: 431GER.pdf
+2025-08-10 16:10:17,465 - INFO - Progress: 158/523
+2025-08-10 16:10:17,465 - INFO - Downloading: 429GER.pdf
+2025-08-10 16:10:19,089 - INFO - Successfully downloaded: 429GER.pdf
+2025-08-10 16:10:19,593 - INFO - Progress: 159/523
+2025-08-10 16:10:19,594 - INFO - Downloading: 421GER.pdf
+2025-08-10 16:10:21,625 - INFO - Successfully downloaded: 421GER.pdf
+2025-08-10 16:10:22,130 - INFO - Progress: 160/523
+2025-08-10 16:10:22,131 - INFO - Downloading: 406GER.pdf
+2025-08-10 16:10:23,388 - INFO - Successfully downloaded: 406GER.pdf
+2025-08-10 16:10:23,893 - INFO - Progress: 161/523
+2025-08-10 16:10:23,894 - INFO - Downloading: 404GER.pdf
+2025-08-10 16:10:25,982 - INFO - Successfully downloaded: 404GER.pdf
+2025-08-10 16:10:26,486 - INFO - Progress: 162/523
+2025-08-10 16:10:26,487 - INFO - Downloading: 397GER.pdf
+2025-08-10 16:10:28,557 - INFO - Successfully downloaded: 397GER.pdf
+2025-08-10 16:10:29,058 - INFO - Progress: 163/523
+2025-08-10 16:10:29,058 - INFO - Downloading: 367GER.pdf
+2025-08-10 16:10:30,468 - INFO - Successfully downloaded: 367GER.pdf
+2025-08-10 16:10:30,969 - INFO - Progress: 164/523
+2025-08-10 16:10:30,969 - INFO - Downloading: 352GER.pdf
+2025-08-10 16:10:32,377 - INFO - Successfully downloaded: 352GER.pdf
+2025-08-10 16:10:32,883 - INFO - Progress: 165/523
+2025-08-10 16:10:32,883 - INFO - Downloading: 242GER.pdf
+2025-08-10 16:10:33,999 - INFO - Successfully downloaded: 242GER.pdf
+2025-08-10 16:10:34,503 - INFO - Progress: 166/523
+2025-08-10 16:10:34,503 - INFO - Downloading: 235GER.pdf
+2025-08-10 16:10:35,445 - INFO - Successfully downloaded: 235GER.pdf
+2025-08-10 16:10:35,951 - INFO - Progress: 167/523
+2025-08-10 16:10:35,951 - INFO - Downloading: 168GER.pdf
+2025-08-10 16:10:37,064 - INFO - Successfully downloaded: 168GER.pdf
+2025-08-10 16:10:37,567 - INFO - Progress: 168/523
+2025-08-10 16:10:37,567 - INFO - Downloading: 054GER.pdf
+2025-08-10 16:10:38,695 - INFO - Successfully downloaded: 054GER.pdf
+2025-08-10 16:10:39,196 - INFO - Progress: 169/523
+2025-08-10 16:10:39,196 - INFO - Downloading: 036GER.pdf
+2025-08-10 16:10:40,124 - INFO - Successfully downloaded: 036GER.pdf
+2025-08-10 16:10:40,628 - INFO - Progress: 170/523
+2025-08-10 16:10:40,628 - INFO - Downloading: 014GER.pdf
+2025-08-10 16:10:42,216 - INFO - Successfully downloaded: 014GER.pdf
+2025-08-10 16:10:42,721 - INFO - Progress: 171/523
+2025-08-10 16:10:42,721 - INFO - Downloading: 716GER.pdf
+2025-08-10 16:10:44,014 - INFO - Successfully downloaded: 716GER.pdf
+2025-08-10 16:10:44,520 - INFO - Progress: 172/523
+2025-08-10 16:10:44,520 - INFO - Downloading: 414GER.pdf
+2025-08-10 16:10:45,872 - INFO - Successfully downloaded: 414GER.pdf
+2025-08-10 16:10:46,383 - INFO - Progress: 173/523
+2025-08-10 16:10:46,383 - INFO - Downloading: 412GER.pdf
+2025-08-10 16:10:47,685 - INFO - Successfully downloaded: 412GER.pdf
+2025-08-10 16:10:48,191 - INFO - Progress: 174/523
+2025-08-10 16:10:48,191 - INFO - Downloading: 105GER.pdf
+2025-08-10 16:10:49,134 - INFO - Successfully downloaded: 105GER.pdf
+2025-08-10 16:10:49,637 - INFO - Progress: 175/523
+2025-08-10 16:10:49,637 - INFO - Downloading: 175GER.pdf
+2025-08-10 16:10:51,101 - INFO - Successfully downloaded: 175GER.pdf
+2025-08-10 16:10:51,608 - INFO - Progress: 176/523
+2025-08-10 16:10:51,608 - INFO - Downloading: 007GER.pdf
+2025-08-10 16:10:52,609 - INFO - Successfully downloaded: 007GER.pdf
+2025-08-10 16:10:53,112 - INFO - Progress: 177/523
+2025-08-10 16:10:53,112 - INFO - Downloading: 441GER.pdf
+2025-08-10 16:10:54,704 - INFO - Successfully downloaded: 441GER.pdf
+2025-08-10 16:10:55,209 - INFO - Progress: 178/523
+2025-08-10 16:10:55,210 - INFO - Downloading: 441GER_0.pdf
+2025-08-10 16:10:56,750 - INFO - Successfully downloaded: 441GER_0.pdf
+2025-08-10 16:10:57,256 - INFO - Progress: 179/523
+2025-08-10 16:10:57,257 - INFO - Downloading: 179GER.pdf
+2025-08-10 16:10:58,813 - INFO - Successfully downloaded: 179GER.pdf
+2025-08-10 16:10:59,318 - INFO - Progress: 180/523
+2025-08-10 16:10:59,319 - INFO - Downloading: 385GER.pdf
+2025-08-10 16:11:00,667 - INFO - Successfully downloaded: 385GER.pdf
+2025-08-10 16:11:01,169 - INFO - Progress: 181/523
+2025-08-10 16:11:01,170 - INFO - Downloading: 460GER.pdf
+2025-08-10 16:11:02,233 - INFO - Successfully downloaded: 460GER.pdf
+2025-08-10 16:11:02,736 - INFO - Progress: 182/523
+2025-08-10 16:11:02,737 - INFO - Downloading: 676GER.pdf
+2025-08-10 16:11:05,943 - INFO - Successfully downloaded: 676GER.pdf
+2025-08-10 16:11:06,447 - INFO - Progress: 183/523
+2025-08-10 16:11:06,447 - INFO - Downloading: 600GER.pdf
+2025-08-10 16:11:07,513 - INFO - Successfully downloaded: 600GER.pdf
+2025-08-10 16:11:08,018 - INFO - Progress: 184/523
+2025-08-10 16:11:08,018 - INFO - Downloading: 591GER.pdf
+2025-08-10 16:11:13,195 - INFO - Successfully downloaded: 591GER.pdf
+2025-08-10 16:11:13,698 - INFO - Progress: 185/523
+2025-08-10 16:11:13,700 - INFO - Downloading: 509GER.pdf
+2025-08-10 16:11:14,775 - INFO - Successfully downloaded: 509GER.pdf
+2025-08-10 16:11:15,278 - INFO - Progress: 186/523
+2025-08-10 16:11:15,279 - INFO - Downloading: 432GER.pdf
+2025-08-10 16:11:16,443 - INFO - Successfully downloaded: 432GER.pdf
+2025-08-10 16:11:16,949 - INFO - Progress: 187/523
+2025-08-10 16:11:16,949 - INFO - Downloading: 420GER.pdf
+2025-08-10 16:11:18,124 - INFO - Successfully downloaded: 420GER.pdf
+2025-08-10 16:11:18,626 - INFO - Progress: 188/523
+2025-08-10 16:11:18,626 - INFO - Downloading: 455GER.pdf
+2025-08-10 16:11:19,882 - INFO - Successfully downloaded: 455GER.pdf
+2025-08-10 16:11:20,387 - INFO - Progress: 189/523
+2025-08-10 16:11:20,388 - INFO - Downloading: 169GER.pdf
+2025-08-10 16:11:21,735 - INFO - Successfully downloaded: 169GER.pdf
+2025-08-10 16:11:22,240 - INFO - Progress: 190/523
+2025-08-10 16:11:22,241 - INFO - Downloading: 391GER.pdf
+2025-08-10 16:11:23,414 - INFO - Successfully downloaded: 391GER.pdf
+2025-08-10 16:11:23,916 - INFO - Progress: 191/523
+2025-08-10 16:11:23,922 - INFO - Downloading: 068GER.pdf
+2025-08-10 16:11:25,341 - INFO - Successfully downloaded: 068GER.pdf
+2025-08-10 16:11:25,846 - INFO - Progress: 192/523
+2025-08-10 16:11:25,847 - INFO - Downloading: 049GER.pdf
+2025-08-10 16:11:26,905 - INFO - Successfully downloaded: 049GER.pdf
+2025-08-10 16:11:27,409 - INFO - Progress: 193/523
+2025-08-10 16:11:27,410 - INFO - Downloading: 102GER.pdf
+2025-08-10 16:11:28,492 - INFO - Successfully downloaded: 102GER.pdf
+2025-08-10 16:11:28,993 - INFO - Progress: 194/523
+2025-08-10 16:11:28,994 - INFO - Downloading: 031GER.pdf
+2025-08-10 16:11:30,077 - INFO - Successfully downloaded: 031GER.pdf
+2025-08-10 16:11:30,582 - INFO - Progress: 195/523
+2025-08-10 16:11:30,582 - INFO - Downloading: 089GER.pdf
+2025-08-10 16:11:31,602 - INFO - Successfully downloaded: 089GER.pdf
+2025-08-10 16:11:32,106 - INFO - Progress: 196/523
+2025-08-10 16:11:32,106 - INFO - Downloading: 066GER.pdf
+2025-08-10 16:11:33,065 - INFO - Successfully downloaded: 066GER.pdf
+2025-08-10 16:11:33,568 - INFO - Progress: 197/523
+2025-08-10 16:11:33,569 - INFO - Downloading: 047GER.pdf
+2025-08-10 16:11:34,453 - INFO - Successfully downloaded: 047GER.pdf
+2025-08-10 16:11:34,958 - INFO - Progress: 198/523
+2025-08-10 16:11:34,959 - INFO - Downloading: 713GER.pdf
+2025-08-10 16:11:36,431 - INFO - Successfully downloaded: 713GER.pdf
+2025-08-10 16:11:36,937 - INFO - Progress: 199/523
+2025-08-10 16:11:36,937 - INFO - Downloading: 318GER.pdf
+2025-08-10 16:11:38,118 - INFO - Successfully downloaded: 318GER.pdf
+2025-08-10 16:11:38,620 - INFO - Progress: 200/523
+2025-08-10 16:11:38,620 - INFO - Downloading: 694GER.pdf
+2025-08-10 16:11:44,416 - INFO - Successfully downloaded: 694GER.pdf
+2025-08-10 16:11:44,922 - INFO - Progress: 201/523
+2025-08-10 16:11:44,922 - INFO - Downloading: 684GER.pdf
+2025-08-10 16:11:46,784 - INFO - Successfully downloaded: 684GER.pdf
+2025-08-10 16:11:47,289 - INFO - Progress: 202/523
+2025-08-10 16:11:47,290 - INFO - Downloading: 507GER.pdf
+2025-08-10 16:11:48,344 - INFO - Successfully downloaded: 507GER.pdf
+2025-08-10 16:11:48,845 - INFO - Progress: 203/523
+2025-08-10 16:11:48,845 - INFO - Downloading: 646GER.pdf
+2025-08-10 16:11:52,355 - INFO - Successfully downloaded: 646GER.pdf
+2025-08-10 16:11:52,860 - INFO - Progress: 204/523
+2025-08-10 16:11:52,860 - INFO - Downloading: 706GER.pdf
+2025-08-10 16:11:54,097 - INFO - Successfully downloaded: 706GER.pdf
+2025-08-10 16:11:54,601 - INFO - Progress: 205/523
+2025-08-10 16:11:54,601 - INFO - Downloading: 696GER.pdf
+2025-08-10 16:11:56,763 - INFO - Successfully downloaded: 696GER.pdf
+2025-08-10 16:11:57,267 - INFO - Progress: 206/523
+2025-08-10 16:11:57,268 - INFO - Downloading: 695GER.pdf
+2025-08-10 16:11:58,847 - INFO - Successfully downloaded: 695GER.pdf
+2025-08-10 16:11:59,352 - INFO - Progress: 207/523
+2025-08-10 16:11:59,352 - INFO - Downloading: 693GER.pdf
+2025-08-10 16:12:01,687 - INFO - Successfully downloaded: 693GER.pdf
+2025-08-10 16:12:02,192 - INFO - Progress: 208/523
+2025-08-10 16:12:02,193 - INFO - Downloading: 593GER.pdf
+2025-08-10 16:12:03,402 - INFO - Successfully downloaded: 593GER.pdf
+2025-08-10 16:12:03,907 - INFO - Progress: 209/523
+2025-08-10 16:12:03,908 - INFO - Downloading: 566GER.pdf
+2025-08-10 16:12:05,452 - INFO - Successfully downloaded: 566GER.pdf
+2025-08-10 16:12:05,958 - INFO - Progress: 210/523
+2025-08-10 16:12:05,958 - INFO - Downloading: 547GER.pdf
+2025-08-10 16:12:07,189 - INFO - Successfully downloaded: 547GER.pdf
+2025-08-10 16:12:07,694 - INFO - Progress: 211/523
+2025-08-10 16:12:07,695 - INFO - Downloading: 543GER.pdf
+2025-08-10 16:12:09,290 - INFO - Successfully downloaded: 543GER.pdf
+2025-08-10 16:12:09,791 - INFO - Progress: 212/523
+2025-08-10 16:12:09,791 - INFO - Downloading: 525GER.pdf
+2025-08-10 16:12:10,971 - INFO - Successfully downloaded: 525GER.pdf
+2025-08-10 16:12:11,476 - INFO - Progress: 213/523
+2025-08-10 16:12:11,476 - INFO - Downloading: 641GER.pdf
+2025-08-10 16:12:13,462 - INFO - Successfully downloaded: 641GER.pdf
+2025-08-10 16:12:13,967 - INFO - Progress: 214/523
+2025-08-10 16:12:13,967 - INFO - Downloading: 622GER.pdf
+2025-08-10 16:12:17,651 - INFO - Successfully downloaded: 622GER.pdf
+2025-08-10 16:12:18,155 - INFO - Progress: 215/523
+2025-08-10 16:12:18,155 - INFO - Downloading: 512GER.pdf
+2025-08-10 16:12:19,536 - INFO - Successfully downloaded: 512GER.pdf
+2025-08-10 16:12:20,041 - INFO - Progress: 216/523
+2025-08-10 16:12:20,041 - INFO - Downloading: 398GER.pdf
+2025-08-10 16:12:21,227 - INFO - Successfully downloaded: 398GER.pdf
+2025-08-10 16:12:21,730 - INFO - Progress: 217/523
+2025-08-10 16:12:21,731 - INFO - Downloading: 086GER.pdf
+2025-08-10 16:12:24,639 - INFO - Successfully downloaded: 086GER.pdf
+2025-08-10 16:12:25,142 - INFO - Progress: 218/523
+2025-08-10 16:12:25,142 - INFO - Downloading: 099GER.pdf
+2025-08-10 16:12:27,340 - INFO - Successfully downloaded: 099GER.pdf
+2025-08-10 16:12:27,845 - INFO - Progress: 219/523
+2025-08-10 16:12:27,845 - INFO - Downloading: 033GER.pdf
+2025-08-10 16:12:29,195 - INFO - Successfully downloaded: 033GER.pdf
+2025-08-10 16:12:29,700 - INFO - Progress: 220/523
+2025-08-10 16:12:29,700 - INFO - Downloading: 592GER.pdf
+2025-08-10 16:12:32,801 - INFO - Successfully downloaded: 592GER.pdf
+2025-08-10 16:12:33,306 - INFO - Progress: 221/523
+2025-08-10 16:12:33,306 - INFO - Downloading: 554GER.pdf
+2025-08-10 16:12:34,129 - INFO - Successfully downloaded: 554GER.pdf
+2025-08-10 16:12:34,631 - INFO - Progress: 222/523
+2025-08-10 16:12:34,631 - INFO - Downloading: 705GER.pdf
+2025-08-10 16:12:36,165 - INFO - Successfully downloaded: 705GER.pdf
+2025-08-10 16:12:36,671 - INFO - Progress: 223/523
+2025-08-10 16:12:36,671 - INFO - Downloading: 702GER.pdf
+2025-08-10 16:12:37,854 - INFO - Successfully downloaded: 702GER.pdf
+2025-08-10 16:12:38,359 - INFO - Progress: 224/523
+2025-08-10 16:12:38,359 - INFO - Downloading: 682GER.pdf
+2025-08-10 16:12:40,597 - INFO - Successfully downloaded: 682GER.pdf
+2025-08-10 16:12:41,104 - INFO - Progress: 225/523
+2025-08-10 16:12:41,104 - INFO - Downloading: 620GER.pdf
+2025-08-10 16:12:42,797 - INFO - Successfully downloaded: 620GER.pdf
+2025-08-10 16:12:43,301 - INFO - Progress: 226/523
+2025-08-10 16:12:43,302 - INFO - Downloading: 652GER.pdf
+2025-08-10 16:12:45,073 - INFO - Successfully downloaded: 652GER.pdf
+2025-08-10 16:12:45,574 - INFO - Progress: 227/523
+2025-08-10 16:12:45,575 - INFO - Downloading: 619GER.pdf
+2025-08-10 16:12:47,048 - INFO - Successfully downloaded: 619GER.pdf
+2025-08-10 16:12:47,550 - INFO - Progress: 228/523
+2025-08-10 16:12:47,550 - INFO - Downloading: 616GER.pdf
+2025-08-10 16:12:49,246 - INFO - Successfully downloaded: 616GER.pdf
+2025-08-10 16:12:49,752 - INFO - Progress: 229/523
+2025-08-10 16:12:49,752 - INFO - Downloading: 644GER.pdf
+2025-08-10 16:12:51,806 - INFO - Successfully downloaded: 644GER.pdf
+2025-08-10 16:12:52,311 - INFO - Progress: 230/523
+2025-08-10 16:12:52,312 - INFO - Downloading: 514GER.pdf
+2025-08-10 16:12:53,504 - INFO - Successfully downloaded: 514GER.pdf
+2025-08-10 16:12:54,005 - INFO - Progress: 231/523
+2025-08-10 16:12:54,005 - INFO - Downloading: 457GER.pdf
+2025-08-10 16:12:55,385 - INFO - Successfully downloaded: 457GER.pdf
+2025-08-10 16:12:55,888 - INFO - Progress: 232/523
+2025-08-10 16:12:55,888 - INFO - Downloading: 615GER.pdf
+2025-08-10 16:12:57,213 - INFO - Successfully downloaded: 615GER.pdf
+2025-08-10 16:12:57,716 - INFO - Progress: 233/523
+2025-08-10 16:12:57,716 - INFO - Downloading: 614GER.pdf
+2025-08-10 16:12:58,721 - INFO - Successfully downloaded: 614GER.pdf
+2025-08-10 16:12:59,226 - INFO - Progress: 234/523
+2025-08-10 16:12:59,226 - INFO - Downloading: 541GER.pdf
+2025-08-10 16:13:00,356 - INFO - Successfully downloaded: 541GER.pdf
+2025-08-10 16:13:00,861 - INFO - Progress: 235/523
+2025-08-10 16:13:00,862 - INFO - Downloading: 265GER.pdf
+2025-08-10 16:13:01,642 - INFO - Successfully downloaded: 265GER.pdf
+2025-08-10 16:13:02,145 - INFO - Progress: 236/523
+2025-08-10 16:13:02,146 - INFO - Downloading: 532GER.pdf
+2025-08-10 16:13:03,325 - INFO - Successfully downloaded: 532GER.pdf
+2025-08-10 16:13:03,828 - INFO - Progress: 237/523
+2025-08-10 16:13:03,828 - INFO - Downloading: 529GER.pdf
+2025-08-10 16:13:04,830 - INFO - Successfully downloaded: 529GER.pdf
+2025-08-10 16:13:05,332 - INFO - Progress: 238/523
+2025-08-10 16:13:05,333 - INFO - Downloading: 522GER.pdf
+2025-08-10 16:13:06,511 - INFO - Successfully downloaded: 522GER.pdf
+2025-08-10 16:13:07,015 - INFO - Progress: 239/523
+2025-08-10 16:13:07,016 - INFO - Downloading: 354GER.pdf
+2025-08-10 16:13:08,548 - INFO - Successfully downloaded: 354GER.pdf
+2025-08-10 16:13:09,065 - INFO - Progress: 240/523
+2025-08-10 16:13:09,065 - INFO - Downloading: 520GER.pdf
+2025-08-10 16:13:10,206 - INFO - Successfully downloaded: 520GER.pdf
+2025-08-10 16:13:10,711 - INFO - Progress: 241/523
+2025-08-10 16:13:10,711 - INFO - Downloading: 233GER.pdf
+2025-08-10 16:13:12,392 - INFO - Successfully downloaded: 233GER.pdf
+2025-08-10 16:13:12,896 - INFO - Progress: 242/523
+2025-08-10 16:13:12,896 - INFO - Downloading: 474GER.pdf
+2025-08-10 16:13:14,108 - INFO - Successfully downloaded: 474GER.pdf
+2025-08-10 16:13:14,612 - INFO - Progress: 243/523
+2025-08-10 16:13:14,612 - INFO - Downloading: 454GER.pdf
+2025-08-10 16:13:15,730 - INFO - Successfully downloaded: 454GER.pdf
+2025-08-10 16:13:16,233 - INFO - Progress: 244/523
+2025-08-10 16:13:16,234 - INFO - Downloading: 427GER.pdf
+2025-08-10 16:13:17,698 - INFO - Successfully downloaded: 427GER.pdf
+2025-08-10 16:13:18,202 - INFO - Progress: 245/523
+2025-08-10 16:13:18,202 - INFO - Downloading: 424GER.pdf
+2025-08-10 16:13:19,202 - INFO - Successfully downloaded: 424GER.pdf
+2025-08-10 16:13:19,705 - INFO - Progress: 246/523
+2025-08-10 16:13:19,706 - INFO - Downloading: 413GER.pdf
+2025-08-10 16:13:20,530 - INFO - Successfully downloaded: 413GER.pdf
+2025-08-10 16:13:21,032 - INFO - Progress: 247/523
+2025-08-10 16:13:21,032 - INFO - Downloading: 402GER.pdf
+2025-08-10 16:13:23,029 - INFO - Successfully downloaded: 402GER.pdf
+2025-08-10 16:13:23,532 - INFO - Progress: 248/523
+2025-08-10 16:13:23,532 - INFO - Downloading: 401GER.pdf
+2025-08-10 16:13:25,109 - INFO - Successfully downloaded: 401GER.pdf
+2025-08-10 16:13:25,614 - INFO - Progress: 249/523
+2025-08-10 16:13:25,614 - INFO - Downloading: 363GER.pdf
+2025-08-10 16:13:27,382 - INFO - Successfully downloaded: 363GER.pdf
+2025-08-10 16:13:27,883 - INFO - Progress: 250/523
+2025-08-10 16:13:27,884 - INFO - Downloading: 327GER.pdf
+2025-08-10 16:13:29,067 - INFO - Successfully downloaded: 327GER.pdf
+2025-08-10 16:13:29,572 - INFO - Progress: 251/523
+2025-08-10 16:13:29,572 - INFO - Downloading: 316GER.pdf
+2025-08-10 16:13:30,547 - INFO - Successfully downloaded: 316GER.pdf
+2025-08-10 16:13:31,050 - INFO - Progress: 252/523
+2025-08-10 16:13:31,050 - INFO - Downloading: 277GER.pdf
+2025-08-10 16:13:32,226 - INFO - Successfully downloaded: 277GER.pdf
+2025-08-10 16:13:32,731 - INFO - Progress: 253/523
+2025-08-10 16:13:32,732 - INFO - Downloading: 260GER.pdf
+2025-08-10 16:13:33,730 - INFO - Successfully downloaded: 260GER.pdf
+2025-08-10 16:13:34,242 - INFO - Progress: 254/523
+2025-08-10 16:13:34,242 - INFO - Downloading: 192GER.pdf
+2025-08-10 16:13:36,114 - INFO - Successfully downloaded: 192GER.pdf
+2025-08-10 16:13:36,616 - INFO - Progress: 255/523
+2025-08-10 16:13:36,617 - INFO - Downloading: 181GER.pdf
+2025-08-10 16:13:37,903 - INFO - Successfully downloaded: 181GER.pdf
+2025-08-10 16:13:38,408 - INFO - Progress: 256/523
+2025-08-10 16:13:38,408 - INFO - Downloading: 177GER.pdf
+2025-08-10 16:13:40,046 - INFO - Successfully downloaded: 177GER.pdf
+2025-08-10 16:13:40,551 - INFO - Progress: 257/523
+2025-08-10 16:13:40,551 - INFO - Downloading: 172GER.pdf
+2025-08-10 16:13:41,570 - INFO - Successfully downloaded: 172GER.pdf
+2025-08-10 16:13:42,074 - INFO - Progress: 258/523
+2025-08-10 16:13:42,075 - INFO - Downloading: 164GER.pdf
+2025-08-10 16:13:43,330 - INFO - Successfully downloaded: 164GER.pdf
+2025-08-10 16:13:43,832 - INFO - Progress: 259/523
+2025-08-10 16:13:43,832 - INFO - Downloading: 163GER.pdf
+2025-08-10 16:13:45,031 - INFO - Successfully downloaded: 163GER.pdf
+2025-08-10 16:13:45,536 - INFO - Progress: 260/523
+2025-08-10 16:13:45,537 - INFO - Downloading: 647GER.pdf
+2025-08-10 16:13:47,067 - INFO - Successfully downloaded: 647GER.pdf
+2025-08-10 16:13:47,572 - INFO - Progress: 261/523
+2025-08-10 16:13:47,573 - INFO - Downloading: 607GER.pdf
+2025-08-10 16:13:48,990 - INFO - Successfully downloaded: 607GER.pdf
+2025-08-10 16:13:49,495 - INFO - Progress: 262/523
+2025-08-10 16:13:49,495 - INFO - Downloading: 590GER.pdf
+2025-08-10 16:13:51,078 - INFO - Successfully downloaded: 590GER.pdf
+2025-08-10 16:13:51,578 - INFO - Progress: 263/523
+2025-08-10 16:13:51,579 - INFO - Downloading: 552GER.pdf
+2025-08-10 16:13:53,266 - INFO - Successfully downloaded: 552GER.pdf
+2025-08-10 16:13:53,771 - INFO - Progress: 264/523
+2025-08-10 16:13:53,771 - INFO - Downloading: 511GER.pdf
+2025-08-10 16:13:54,828 - INFO - Successfully downloaded: 511GER.pdf
+2025-08-10 16:13:55,328 - INFO - Progress: 265/523
+2025-08-10 16:13:55,329 - INFO - Downloading: 478GER.pdf
+2025-08-10 16:13:56,612 - INFO - Successfully downloaded: 478GER.pdf
+2025-08-10 16:13:57,115 - INFO - Progress: 266/523
+2025-08-10 16:13:57,116 - INFO - Downloading: 471GER.pdf
+2025-08-10 16:13:58,701 - INFO - Successfully downloaded: 471GER.pdf
+2025-08-10 16:13:59,206 - INFO - Progress: 267/523
+2025-08-10 16:13:59,207 - INFO - Downloading: 462GER.pdf
+2025-08-10 16:14:00,697 - INFO - Successfully downloaded: 462GER.pdf
+2025-08-10 16:14:01,204 - INFO - Progress: 268/523
+2025-08-10 16:14:01,205 - INFO - Downloading: 426GER.pdf
+2025-08-10 16:14:03,121 - INFO - Successfully downloaded: 426GER.pdf
+2025-08-10 16:14:03,622 - INFO - Progress: 269/523
+2025-08-10 16:14:03,623 - INFO - Downloading: 333GER.pdf
+2025-08-10 16:14:05,047 - INFO - Successfully downloaded: 333GER.pdf
+2025-08-10 16:14:05,550 - INFO - Progress: 270/523
+2025-08-10 16:14:05,551 - INFO - Downloading: 325GER.pdf
+2025-08-10 16:14:06,610 - INFO - Successfully downloaded: 325GER.pdf
+2025-08-10 16:14:07,113 - INFO - Progress: 271/523
+2025-08-10 16:14:07,113 - INFO - Downloading: 324GER.pdf
+2025-08-10 16:14:08,230 - INFO - Successfully downloaded: 324GER.pdf
+2025-08-10 16:14:08,736 - INFO - Progress: 272/523
+2025-08-10 16:14:08,736 - INFO - Downloading: 323GER.pdf
+2025-08-10 16:14:10,323 - INFO - Successfully downloaded: 323GER.pdf
+2025-08-10 16:14:10,827 - INFO - Progress: 273/523
+2025-08-10 16:14:10,827 - INFO - Downloading: 286GER.pdf
+2025-08-10 16:14:12,064 - INFO - Successfully downloaded: 286GER.pdf
+2025-08-10 16:14:12,570 - INFO - Progress: 274/523
+2025-08-10 16:14:12,570 - INFO - Downloading: 270GER.pdf
+2025-08-10 16:14:14,213 - INFO - Successfully downloaded: 270GER.pdf
+2025-08-10 16:14:14,717 - INFO - Progress: 275/523
+2025-08-10 16:14:14,717 - INFO - Downloading: 264GER.pdf
+2025-08-10 16:14:15,895 - INFO - Successfully downloaded: 264GER.pdf
+2025-08-10 16:14:16,397 - INFO - Progress: 276/523
+2025-08-10 16:14:16,397 - INFO - Downloading: 232GER.pdf
+2025-08-10 16:14:17,495 - INFO - Successfully downloaded: 232GER.pdf
+2025-08-10 16:14:17,996 - INFO - Progress: 277/523
+2025-08-10 16:14:17,997 - INFO - Downloading: 197GER.pdf
+2025-08-10 16:14:21,722 - INFO - Successfully downloaded: 197GER.pdf
+2025-08-10 16:14:22,227 - INFO - Progress: 278/523
+2025-08-10 16:14:22,227 - INFO - Downloading: 184GER.pdf
+2025-08-10 16:14:23,287 - INFO - Successfully downloaded: 184GER.pdf
+2025-08-10 16:14:23,791 - INFO - Progress: 279/523
+2025-08-10 16:14:23,791 - INFO - Downloading: 174GER.pdf
+2025-08-10 16:14:25,605 - INFO - Successfully downloaded: 174GER.pdf
+2025-08-10 16:14:26,107 - INFO - Progress: 280/523
+2025-08-10 16:14:26,107 - INFO - Downloading: 167GER.pdf
+2025-08-10 16:14:27,871 - INFO - Successfully downloaded: 167GER.pdf
+2025-08-10 16:14:28,373 - INFO - Progress: 281/523
+2025-08-10 16:14:28,374 - INFO - Downloading: 166GER.pdf
+2025-08-10 16:14:29,959 - INFO - Successfully downloaded: 166GER.pdf
+2025-08-10 16:14:30,464 - INFO - Progress: 282/523
+2025-08-10 16:14:30,464 - INFO - Downloading: 146GER.pdf
+2025-08-10 16:14:31,826 - INFO - Successfully downloaded: 146GER.pdf
+2025-08-10 16:14:32,332 - INFO - Progress: 283/523
+2025-08-10 16:14:32,332 - INFO - Downloading: 145GER.pdf
+2025-08-10 16:14:33,650 - INFO - Successfully downloaded: 145GER.pdf
+2025-08-10 16:14:34,153 - INFO - Progress: 284/523
+2025-08-10 16:14:34,153 - INFO - Downloading: 001GER.pdf
+2025-08-10 16:14:45,916 - INFO - Successfully downloaded: 001GER.pdf
+2025-08-10 16:14:46,420 - INFO - Progress: 285/523
+2025-08-10 16:14:46,421 - INFO - Downloading: 670GER.pdf
+2025-08-10 16:14:47,997 - INFO - Successfully downloaded: 670GER.pdf
+2025-08-10 16:14:48,503 - INFO - Progress: 286/523
+2025-08-10 16:14:48,503 - INFO - Downloading: 542GER.pdf
+2025-08-10 16:14:49,776 - INFO - Successfully downloaded: 542GER.pdf
+2025-08-10 16:14:50,281 - INFO - Progress: 287/523
+2025-08-10 16:14:50,282 - INFO - Downloading: 506GER.pdf
+2025-08-10 16:14:51,409 - INFO - Successfully downloaded: 506GER.pdf
+2025-08-10 16:14:51,913 - INFO - Progress: 288/523
+2025-08-10 16:14:51,913 - INFO - Downloading: 498GER.pdf
+2025-08-10 16:14:53,065 - INFO - Successfully downloaded: 498GER.pdf
+2025-08-10 16:14:53,569 - INFO - Progress: 289/523
+2025-08-10 16:14:53,570 - INFO - Downloading: 476GER.pdf
+2025-08-10 16:14:54,710 - INFO - Successfully downloaded: 476GER.pdf
+2025-08-10 16:14:55,216 - INFO - Progress: 290/523
+2025-08-10 16:14:55,217 - INFO - Downloading: 461GER.pdf
+2025-08-10 16:14:57,243 - INFO - Successfully downloaded: 461GER.pdf
+2025-08-10 16:14:57,748 - INFO - Progress: 291/523
+2025-08-10 16:14:57,748 - INFO - Downloading: 697GER.pdf
+2025-08-10 16:14:59,670 - INFO - Successfully downloaded: 697GER.pdf
+2025-08-10 16:15:00,173 - INFO - Progress: 292/523
+2025-08-10 16:15:00,174 - INFO - Downloading: 338GER.pdf
+2025-08-10 16:15:01,112 - INFO - Successfully downloaded: 338GER.pdf
+2025-08-10 16:15:01,613 - INFO - Progress: 293/523
+2025-08-10 16:15:01,613 - INFO - Downloading: 613GER.pdf
+2025-08-10 16:15:02,669 - INFO - Successfully downloaded: 613GER.pdf
+2025-08-10 16:15:03,173 - INFO - Progress: 294/523
+2025-08-10 16:15:03,174 - INFO - Downloading: 587GER.pdf
+2025-08-10 16:15:05,682 - INFO - Successfully downloaded: 587GER.pdf
+2025-08-10 16:15:06,186 - INFO - Progress: 295/523
+2025-08-10 16:15:06,187 - INFO - Downloading: 717GER.pdf
+2025-08-10 16:15:07,764 - INFO - Successfully downloaded: 717GER.pdf
+2025-08-10 16:15:08,266 - INFO - Progress: 296/523
+2025-08-10 16:15:08,266 - INFO - Downloading: 712GER.pdf
+2025-08-10 16:15:09,566 - INFO - Successfully downloaded: 712GER.pdf
+2025-08-10 16:15:10,069 - INFO - Progress: 297/523
+2025-08-10 16:15:10,069 - INFO - Downloading: 710GER.pdf
+2025-08-10 16:15:11,305 - INFO - Successfully downloaded: 710GER.pdf
+2025-08-10 16:15:11,810 - INFO - Progress: 298/523
+2025-08-10 16:15:11,810 - INFO - Downloading: 703GER.pdf
+2025-08-10 16:15:13,064 - INFO - Successfully downloaded: 703GER.pdf
+2025-08-10 16:15:13,569 - INFO - Progress: 299/523
+2025-08-10 16:15:13,570 - INFO - Downloading: 690GER.pdf
+2025-08-10 16:15:15,506 - INFO - Successfully downloaded: 690GER.pdf
+2025-08-10 16:15:16,012 - INFO - Progress: 300/523
+2025-08-10 16:15:16,012 - INFO - Downloading: 671GER.pdf
+2025-08-10 16:15:18,017 - INFO - Successfully downloaded: 671GER.pdf
+2025-08-10 16:15:18,523 - INFO - Progress: 301/523
+2025-08-10 16:15:18,523 - INFO - Downloading: 645GER.pdf
+2025-08-10 16:15:20,467 - INFO - Successfully downloaded: 645GER.pdf
+2025-08-10 16:15:20,969 - INFO - Progress: 302/523
+2025-08-10 16:15:20,969 - INFO - Downloading: 642GER.pdf
+2025-08-10 16:15:22,954 - INFO - Successfully downloaded: 642GER.pdf
+2025-08-10 16:15:23,456 - INFO - Progress: 303/523
+2025-08-10 16:15:23,456 - INFO - Downloading: 557GER.pdf
+2025-08-10 16:15:24,927 - INFO - Successfully downloaded: 557GER.pdf
+2025-08-10 16:15:25,435 - INFO - Progress: 304/523
+2025-08-10 16:15:25,435 - INFO - Downloading: 537GER.pdf
+2025-08-10 16:15:26,776 - INFO - Successfully downloaded: 537GER.pdf
+2025-08-10 16:15:27,282 - INFO - Progress: 305/523
+2025-08-10 16:15:27,284 - INFO - Downloading: 640GER.pdf
+2025-08-10 16:15:29,524 - INFO - Successfully downloaded: 640GER.pdf
+2025-08-10 16:15:30,029 - INFO - Progress: 306/523
+2025-08-10 16:15:30,029 - INFO - Downloading: 521GER.pdf
+2025-08-10 16:15:31,090 - INFO - Successfully downloaded: 521GER.pdf
+2025-08-10 16:15:31,595 - INFO - Progress: 307/523
+2025-08-10 16:15:31,595 - INFO - Downloading: 458GER.pdf
+2025-08-10 16:15:32,599 - INFO - Successfully downloaded: 458GER.pdf
+2025-08-10 16:15:33,102 - INFO - Progress: 308/523
+2025-08-10 16:15:33,102 - INFO - Downloading: 470GER.pdf
+2025-08-10 16:15:34,105 - INFO - Successfully downloaded: 470GER.pdf
+2025-08-10 16:15:34,610 - INFO - Progress: 309/523
+2025-08-10 16:15:34,610 - INFO - Downloading: 438GER.pdf
+2025-08-10 16:15:35,672 - INFO - Successfully downloaded: 438GER.pdf
+2025-08-10 16:15:36,186 - INFO - Progress: 310/523
+2025-08-10 16:15:36,186 - INFO - Downloading: 416GER.pdf
+2025-08-10 16:15:37,372 - INFO - Successfully downloaded: 416GER.pdf
+2025-08-10 16:15:37,877 - INFO - Progress: 311/523
+2025-08-10 16:15:37,878 - INFO - Downloading: 382GER.pdf
+2025-08-10 16:15:38,997 - INFO - Successfully downloaded: 382GER.pdf
+2025-08-10 16:15:39,504 - INFO - Progress: 312/523
+2025-08-10 16:15:39,504 - INFO - Downloading: 410GER.pdf
+2025-08-10 16:15:41,174 - INFO - Successfully downloaded: 410GER.pdf
+2025-08-10 16:15:41,676 - INFO - Progress: 313/523
+2025-08-10 16:15:41,677 - INFO - Downloading: 315GER.pdf
+2025-08-10 16:15:42,630 - INFO - Successfully downloaded: 315GER.pdf
+2025-08-10 16:15:43,131 - INFO - Progress: 314/523
+2025-08-10 16:15:43,131 - INFO - Downloading: 396GER.pdf
+2025-08-10 16:15:44,528 - INFO - Successfully downloaded: 396GER.pdf
+2025-08-10 16:15:45,034 - INFO - Progress: 315/523
+2025-08-10 16:15:45,034 - INFO - Downloading: 278GER.pdf
+2025-08-10 16:15:46,447 - INFO - Successfully downloaded: 278GER.pdf
+2025-08-10 16:15:46,952 - INFO - Progress: 316/523
+2025-08-10 16:15:46,952 - INFO - Downloading: 328GER.pdf
+2025-08-10 16:15:47,998 - INFO - Successfully downloaded: 328GER.pdf
+2025-08-10 16:15:48,502 - INFO - Progress: 317/523
+2025-08-10 16:15:48,503 - INFO - Downloading: 243GER.pdf
+2025-08-10 16:15:49,218 - INFO - Successfully downloaded: 243GER.pdf
+2025-08-10 16:15:49,723 - INFO - Progress: 318/523
+2025-08-10 16:15:49,724 - INFO - Downloading: 326GER.pdf
+2025-08-10 16:15:50,966 - INFO - Successfully downloaded: 326GER.pdf
+2025-08-10 16:15:51,468 - INFO - Progress: 319/523
+2025-08-10 16:15:51,468 - INFO - Downloading: 317GER.pdf
+2025-08-10 16:15:53,232 - INFO - Successfully downloaded: 317GER.pdf
+2025-08-10 16:15:53,736 - INFO - Progress: 320/523
+2025-08-10 16:15:53,737 - INFO - Downloading: 180GER.pdf
+2025-08-10 16:15:54,968 - INFO - Successfully downloaded: 180GER.pdf
+2025-08-10 16:15:55,474 - INFO - Progress: 321/523
+2025-08-10 16:15:55,474 - INFO - Downloading: 080GER.pdf
+2025-08-10 16:15:57,074 - INFO - Successfully downloaded: 080GER.pdf
+2025-08-10 16:15:57,580 - INFO - Progress: 322/523
+2025-08-10 16:15:57,580 - INFO - Downloading: 073GER.pdf
+2025-08-10 16:15:58,871 - INFO - Successfully downloaded: 073GER.pdf
+2025-08-10 16:15:59,375 - INFO - Progress: 323/523
+2025-08-10 16:15:59,375 - INFO - Downloading: 108GER.pdf
+2025-08-10 16:16:00,636 - INFO - Successfully downloaded: 108GER.pdf
+2025-08-10 16:16:01,142 - INFO - Progress: 324/523
+2025-08-10 16:16:01,142 - INFO - Downloading: 037GER.pdf
+2025-08-10 16:16:02,643 - INFO - Successfully downloaded: 037GER.pdf
+2025-08-10 16:16:03,148 - INFO - Progress: 325/523
+2025-08-10 16:16:03,149 - INFO - Downloading: 632GER.pdf
+2025-08-10 16:16:04,671 - INFO - Successfully downloaded: 632GER.pdf
+2025-08-10 16:16:05,177 - INFO - Progress: 326/523
+2025-08-10 16:16:05,177 - INFO - Downloading: 627GER.pdf
+2025-08-10 16:16:06,817 - INFO - Successfully downloaded: 627GER.pdf
+2025-08-10 16:16:07,322 - INFO - Progress: 327/523
+2025-08-10 16:16:07,323 - INFO - Downloading: 625GER.pdf
+2025-08-10 16:16:08,512 - INFO - Successfully downloaded: 625GER.pdf
+2025-08-10 16:16:09,017 - INFO - Progress: 328/523
+2025-08-10 16:16:09,018 - INFO - Downloading: 403GER.pdf
+2025-08-10 16:16:10,304 - INFO - Successfully downloaded: 403GER.pdf
+2025-08-10 16:16:10,806 - INFO - Progress: 329/523
+2025-08-10 16:16:10,806 - INFO - Downloading: 602GER.pdf
+2025-08-10 16:16:12,039 - INFO - Successfully downloaded: 602GER.pdf
+2025-08-10 16:16:12,544 - INFO - Progress: 330/523
+2025-08-10 16:16:12,544 - INFO - Downloading: 601GER.pdf
+2025-08-10 16:16:13,667 - INFO - Successfully downloaded: 601GER.pdf
+2025-08-10 16:16:14,172 - INFO - Progress: 331/523
+2025-08-10 16:16:14,172 - INFO - Downloading: 548GER.pdf
+2025-08-10 16:16:15,483 - INFO - Successfully downloaded: 548GER.pdf
+2025-08-10 16:16:15,987 - INFO - Progress: 332/523
+2025-08-10 16:16:15,988 - INFO - Downloading: 540GER.pdf
+2025-08-10 16:16:17,114 - INFO - Successfully downloaded: 540GER.pdf
+2025-08-10 16:16:17,619 - INFO - Progress: 333/523
+2025-08-10 16:16:17,619 - INFO - Downloading: 510GER.pdf
+2025-08-10 16:16:23,214 - INFO - Successfully downloaded: 510GER.pdf
+2025-08-10 16:16:23,718 - INFO - Progress: 334/523
+2025-08-10 16:16:23,718 - INFO - Downloading: 685GER.pdf
+2025-08-10 16:16:26,127 - INFO - Successfully downloaded: 685GER.pdf
+2025-08-10 16:16:26,632 - INFO - Progress: 335/523
+2025-08-10 16:16:26,634 - INFO - Downloading: 502GER.pdf
+2025-08-10 16:16:27,691 - INFO - Successfully downloaded: 502GER.pdf
+2025-08-10 16:16:28,196 - INFO - Progress: 336/523
+2025-08-10 16:16:28,196 - INFO - Downloading: 648GER.pdf
+2025-08-10 16:16:28,964 - INFO - Successfully downloaded: 648GER.pdf
+2025-08-10 16:16:29,468 - INFO - Progress: 337/523
+2025-08-10 16:16:29,468 - INFO - Downloading: 497GER.pdf
+2025-08-10 16:16:30,949 - INFO - Successfully downloaded: 497GER.pdf
+2025-08-10 16:16:31,453 - INFO - Progress: 338/523
+2025-08-10 16:16:31,453 - INFO - Downloading: 626GER.pdf
+2025-08-10 16:16:33,122 - INFO - Successfully downloaded: 626GER.pdf
+2025-08-10 16:16:33,623 - INFO - Progress: 339/523
+2025-08-10 16:16:33,623 - INFO - Downloading: 636GER.pdf
+2025-08-10 16:16:36,994 - INFO - Successfully downloaded: 636GER.pdf
+2025-08-10 16:16:37,499 - INFO - Progress: 340/523
+2025-08-10 16:16:37,500 - INFO - Downloading: 629GER.pdf
+2025-08-10 16:16:38,618 - INFO - Successfully downloaded: 629GER.pdf
+2025-08-10 16:16:39,122 - INFO - Progress: 341/523
+2025-08-10 16:16:39,123 - INFO - Downloading: 709GER.pdf
+2025-08-10 16:16:41,053 - INFO - Successfully downloaded: 709GER.pdf
+2025-08-10 16:16:41,555 - INFO - Progress: 342/523
+2025-08-10 16:16:41,556 - INFO - Downloading: 650GER.pdf
+2025-08-10 16:16:43,553 - INFO - Successfully downloaded: 650GER.pdf
+2025-08-10 16:16:44,057 - INFO - Progress: 343/523
+2025-08-10 16:16:44,057 - INFO - Downloading: 649GER.pdf
+2025-08-10 16:16:46,112 - INFO - Successfully downloaded: 649GER.pdf
+2025-08-10 16:16:46,617 - INFO - Progress: 344/523
+2025-08-10 16:16:46,617 - INFO - Downloading: 624GER.pdf
+2025-08-10 16:16:48,900 - INFO - Successfully downloaded: 624GER.pdf
+2025-08-10 16:16:49,404 - INFO - Progress: 345/523
+2025-08-10 16:16:49,405 - INFO - Downloading: 610GER.pdf
+2025-08-10 16:16:51,092 - INFO - Successfully downloaded: 610GER.pdf
+2025-08-10 16:16:51,597 - INFO - Progress: 346/523
+2025-08-10 16:16:51,597 - INFO - Downloading: 588GER.pdf
+2025-08-10 16:16:53,010 - INFO - Successfully downloaded: 588GER.pdf
+2025-08-10 16:16:53,514 - INFO - Progress: 347/523
+2025-08-10 16:16:53,515 - INFO - Downloading: 580GER.pdf
+2025-08-10 16:16:54,823 - INFO - Successfully downloaded: 580GER.pdf
+2025-08-10 16:16:55,328 - INFO - Progress: 348/523
+2025-08-10 16:16:55,328 - INFO - Downloading: 562GER.pdf
+2025-08-10 16:16:56,720 - INFO - Successfully downloaded: 562GER.pdf
+2025-08-10 16:16:57,225 - INFO - Progress: 349/523
+2025-08-10 16:16:57,225 - INFO - Downloading: 508GER.pdf
+2025-08-10 16:16:58,282 - INFO - Successfully downloaded: 508GER.pdf
+2025-08-10 16:16:58,787 - INFO - Progress: 350/523
+2025-08-10 16:16:58,787 - INFO - Downloading: 485GER.pdf
+2025-08-10 16:16:59,909 - INFO - Successfully downloaded: 485GER.pdf
+2025-08-10 16:17:00,414 - INFO - Progress: 351/523
+2025-08-10 16:17:00,415 - INFO - Downloading: 480GER.pdf
+2025-08-10 16:17:01,655 - INFO - Successfully downloaded: 480GER.pdf
+2025-08-10 16:17:02,160 - INFO - Progress: 352/523
+2025-08-10 16:17:02,161 - INFO - Downloading: 368GER.pdf
+2025-08-10 16:17:03,106 - INFO - Successfully downloaded: 368GER.pdf
+2025-08-10 16:17:03,610 - INFO - Progress: 353/523
+2025-08-10 16:17:03,610 - INFO - Downloading: 336GER.pdf
+2025-08-10 16:17:05,517 - INFO - Successfully downloaded: 336GER.pdf
+2025-08-10 16:17:06,022 - INFO - Progress: 354/523
+2025-08-10 16:17:06,022 - INFO - Downloading: 319GER.pdf
+2025-08-10 16:17:07,484 - INFO - Successfully downloaded: 319GER.pdf
+2025-08-10 16:17:07,999 - INFO - Progress: 355/523
+2025-08-10 16:17:08,001 - INFO - Downloading: 259GER.pdf
+2025-08-10 16:17:09,115 - INFO - Successfully downloaded: 259GER.pdf
+2025-08-10 16:17:09,619 - INFO - Progress: 356/523
+2025-08-10 16:17:09,619 - INFO - Downloading: 246GER.pdf
+2025-08-10 16:17:10,740 - INFO - Successfully downloaded: 246GER.pdf
+2025-08-10 16:17:11,243 - INFO - Progress: 357/523
+2025-08-10 16:17:11,243 - INFO - Downloading: 245GER.pdf
+2025-08-10 16:17:12,611 - INFO - Successfully downloaded: 245GER.pdf
+2025-08-10 16:17:13,116 - INFO - Progress: 358/523
+2025-08-10 16:17:13,116 - INFO - Downloading: 241GER.pdf
+2025-08-10 16:17:13,778 - INFO - Successfully downloaded: 241GER.pdf
+2025-08-10 16:17:14,281 - INFO - Progress: 359/523
+2025-08-10 16:17:14,281 - INFO - Downloading: 196GER.pdf
+2025-08-10 16:17:15,939 - INFO - Successfully downloaded: 196GER.pdf
+2025-08-10 16:17:16,441 - INFO - Progress: 360/523
+2025-08-10 16:17:16,441 - INFO - Downloading: 138GER.pdf
+2025-08-10 16:17:17,940 - INFO - Successfully downloaded: 138GER.pdf
+2025-08-10 16:17:18,442 - INFO - Progress: 361/523
+2025-08-10 16:17:18,442 - INFO - Downloading: 094GER.pdf
+2025-08-10 16:17:19,734 - INFO - Successfully downloaded: 094GER.pdf
+2025-08-10 16:17:20,236 - INFO - Progress: 362/523
+2025-08-10 16:17:20,237 - INFO - Downloading: 084GER.pdf
+2025-08-10 16:17:21,655 - INFO - Successfully downloaded: 084GER.pdf
+2025-08-10 16:17:22,160 - INFO - Progress: 363/523
+2025-08-10 16:17:22,161 - INFO - Downloading: 074GER.pdf
+2025-08-10 16:17:24,902 - INFO - Successfully downloaded: 074GER.pdf
+2025-08-10 16:17:25,406 - INFO - Progress: 364/523
+2025-08-10 16:17:25,406 - INFO - Downloading: 070GER.pdf
+2025-08-10 16:17:26,646 - INFO - Successfully downloaded: 070GER.pdf
+2025-08-10 16:17:27,150 - INFO - Progress: 365/523
+2025-08-10 16:17:27,150 - INFO - Downloading: 000GER_H1N1.pdf
+2025-08-10 16:17:29,069 - INFO - Successfully downloaded: 000GER_H1N1.pdf
+2025-08-10 16:17:29,574 - INFO - Progress: 366/523
+2025-08-10 16:17:29,574 - INFO - Downloading: 708GER.pdf
+2025-08-10 16:17:30,797 - INFO - Successfully downloaded: 708GER.pdf
+2025-08-10 16:17:31,301 - INFO - Progress: 367/523
+2025-08-10 16:17:31,301 - INFO - Downloading: 444GER.pdf
+2025-08-10 16:17:33,410 - INFO - Successfully downloaded: 444GER.pdf
+2025-08-10 16:17:33,914 - INFO - Progress: 368/523
+2025-08-10 16:17:33,914 - INFO - Downloading: 415GER.pdf
+2025-08-10 16:17:35,333 - INFO - Successfully downloaded: 415GER.pdf
+2025-08-10 16:17:35,836 - INFO - Progress: 369/523
+2025-08-10 16:17:35,836 - INFO - Downloading: 409GER.pdf
+2025-08-10 16:17:38,628 - INFO - Successfully downloaded: 409GER.pdf
+2025-08-10 16:17:39,133 - INFO - Progress: 370/523
+2025-08-10 16:17:39,133 - INFO - Downloading: 408GER.pdf
+2025-08-10 16:17:40,415 - INFO - Successfully downloaded: 408GER.pdf
+2025-08-10 16:17:40,919 - INFO - Progress: 371/523
+2025-08-10 16:17:40,922 - INFO - Downloading: 407GER.pdf
+2025-08-10 16:17:42,414 - INFO - Successfully downloaded: 407GER.pdf
+2025-08-10 16:17:42,918 - INFO - Progress: 372/523
+2025-08-10 16:17:42,919 - INFO - Downloading: 405GER.pdf
+2025-08-10 16:17:44,111 - INFO - Successfully downloaded: 405GER.pdf
+2025-08-10 16:17:44,616 - INFO - Progress: 373/523
+2025-08-10 16:17:44,616 - INFO - Downloading: 389GER.pdf
+2025-08-10 16:17:45,958 - INFO - Successfully downloaded: 389GER.pdf
+2025-08-10 16:17:46,464 - INFO - Progress: 374/523
+2025-08-10 16:17:46,464 - INFO - Downloading: 276GER.pdf
+2025-08-10 16:17:48,868 - INFO - Successfully downloaded: 276GER.pdf
+2025-08-10 16:17:49,372 - INFO - Progress: 375/523
+2025-08-10 16:17:49,372 - INFO - Downloading: 178GER.pdf
+2025-08-10 16:17:52,436 - INFO - Successfully downloaded: 178GER.pdf
+2025-08-10 16:17:52,938 - INFO - Progress: 376/523
+2025-08-10 16:17:52,938 - INFO - Downloading: 496GER.pdf
+2025-08-10 16:17:54,394 - INFO - Successfully downloaded: 496GER.pdf
+2025-08-10 16:17:54,896 - INFO - Progress: 377/523
+2025-08-10 16:17:54,896 - INFO - Downloading: 495GER.pdf
+2025-08-10 16:17:56,870 - INFO - Successfully downloaded: 495GER.pdf
+2025-08-10 16:17:57,375 - INFO - Progress: 378/523
+2025-08-10 16:17:57,375 - INFO - Downloading: 475GER.pdf
+2025-08-10 16:17:58,936 - INFO - Successfully downloaded: 475GER.pdf
+2025-08-10 16:17:59,439 - INFO - Progress: 379/523
+2025-08-10 16:17:59,439 - INFO - Downloading: 473GER.pdf
+2025-08-10 16:18:00,502 - INFO - Successfully downloaded: 473GER.pdf
+2025-08-10 16:18:01,004 - INFO - Progress: 380/523
+2025-08-10 16:18:01,005 - INFO - Downloading: 101GER.pdf
+2025-08-10 16:18:02,263 - INFO - Successfully downloaded: 101GER.pdf
+2025-08-10 16:18:02,767 - INFO - Progress: 381/523
+2025-08-10 16:18:02,767 - INFO - Downloading: 069GER.pdf
+2025-08-10 16:18:03,989 - INFO - Successfully downloaded: 069GER.pdf
+2025-08-10 16:18:04,494 - INFO - Progress: 382/523
+2025-08-10 16:18:04,494 - INFO - Downloading: 469GER.pdf
+2025-08-10 16:18:05,158 - INFO - Successfully downloaded: 469GER.pdf
+2025-08-10 16:18:05,663 - INFO - Progress: 383/523
+2025-08-10 16:18:05,663 - INFO - Downloading: 467GER.pdf
+2025-08-10 16:18:06,791 - INFO - Successfully downloaded: 467GER.pdf
+2025-08-10 16:18:07,295 - INFO - Progress: 384/523
+2025-08-10 16:18:07,296 - INFO - Downloading: 466GER.pdf
+2025-08-10 16:18:08,455 - INFO - Successfully downloaded: 466GER.pdf
+2025-08-10 16:18:08,957 - INFO - Progress: 385/523
+2025-08-10 16:18:08,958 - INFO - Downloading: 418GER.pdf
+2025-08-10 16:18:10,506 - INFO - Successfully downloaded: 418GER.pdf
+2025-08-10 16:18:11,009 - INFO - Progress: 386/523
+2025-08-10 16:18:11,009 - INFO - Downloading: 361GER.pdf
+2025-08-10 16:18:12,337 - INFO - Successfully downloaded: 361GER.pdf
+2025-08-10 16:18:12,838 - INFO - Progress: 387/523
+2025-08-10 16:18:12,838 - INFO - Downloading: 350GER.pdf
+2025-08-10 16:18:15,210 - INFO - Successfully downloaded: 350GER.pdf
+2025-08-10 16:18:15,713 - INFO - Progress: 388/523
+2025-08-10 16:18:15,713 - INFO - Downloading: 334GER.pdf
+2025-08-10 16:18:17,483 - INFO - Successfully downloaded: 334GER.pdf
+2025-08-10 16:18:17,988 - INFO - Progress: 389/523
+2025-08-10 16:18:17,988 - INFO - Downloading: 275GER.pdf
+2025-08-10 16:18:19,238 - INFO - Successfully downloaded: 275GER.pdf
+2025-08-10 16:18:19,742 - INFO - Progress: 390/523
+2025-08-10 16:18:19,743 - INFO - Downloading: 271GER.pdf
+2025-08-10 16:18:22,920 - INFO - Successfully downloaded: 271GER.pdf
+2025-08-10 16:18:23,421 - INFO - Progress: 391/523
+2025-08-10 16:18:23,421 - INFO - Downloading: 269GER.pdf
+2025-08-10 16:18:25,849 - INFO - Successfully downloaded: 269GER.pdf
+2025-08-10 16:18:26,354 - INFO - Progress: 392/523
+2025-08-10 16:18:26,354 - INFO - Downloading: 261GER.pdf
+2025-08-10 16:18:27,625 - INFO - Successfully downloaded: 261GER.pdf
+2025-08-10 16:18:28,129 - INFO - Progress: 393/523
+2025-08-10 16:18:28,130 - INFO - Downloading: 258GER.pdf
+2025-08-10 16:18:29,137 - INFO - Successfully downloaded: 258GER.pdf
+2025-08-10 16:18:29,642 - INFO - Progress: 394/523
+2025-08-10 16:18:29,642 - INFO - Downloading: 248GER.pdf
+2025-08-10 16:18:30,998 - INFO - Successfully downloaded: 248GER.pdf
+2025-08-10 16:18:31,503 - INFO - Progress: 395/523
+2025-08-10 16:18:31,504 - INFO - Downloading: 244GER.pdf
+2025-08-10 16:18:32,875 - INFO - Successfully downloaded: 244GER.pdf
+2025-08-10 16:18:33,381 - INFO - Progress: 396/523
+2025-08-10 16:18:33,381 - INFO - Downloading: 156GER.pdf
+2025-08-10 16:18:34,978 - INFO - Successfully downloaded: 156GER.pdf
+2025-08-10 16:18:35,479 - INFO - Progress: 397/523
+2025-08-10 16:18:35,479 - INFO - Downloading: 137GER.pdf
+2025-08-10 16:18:36,717 - INFO - Successfully downloaded: 137GER.pdf
+2025-08-10 16:18:37,220 - INFO - Progress: 398/523
+2025-08-10 16:18:37,220 - INFO - Downloading: 109GER.pdf
+2025-08-10 16:18:38,272 - INFO - Successfully downloaded: 109GER.pdf
+2025-08-10 16:18:38,777 - INFO - Progress: 399/523
+2025-08-10 16:18:38,777 - INFO - Downloading: 062GER.pdf
+2025-08-10 16:18:39,734 - INFO - Successfully downloaded: 062GER.pdf
+2025-08-10 16:18:40,239 - INFO - Progress: 400/523
+2025-08-10 16:18:40,240 - INFO - Downloading: 044GER.pdf
+2025-08-10 16:18:41,070 - INFO - Successfully downloaded: 044GER.pdf
+2025-08-10 16:18:41,575 - INFO - Progress: 401/523
+2025-08-10 16:18:41,576 - INFO - Downloading: 027GER.pdf
+2025-08-10 16:18:42,867 - INFO - Successfully downloaded: 027GER.pdf
+2025-08-10 16:18:43,371 - INFO - Progress: 402/523
+2025-08-10 16:18:43,371 - INFO - Downloading: 528GER.pdf
+2025-08-10 16:18:45,282 - INFO - Successfully downloaded: 528GER.pdf
+2025-08-10 16:18:45,788 - INFO - Progress: 403/523
+2025-08-10 16:18:45,789 - INFO - Downloading: 515GER.pdf
+2025-08-10 16:18:47,128 - INFO - Successfully downloaded: 515GER.pdf
+2025-08-10 16:18:47,629 - INFO - Progress: 404/523
+2025-08-10 16:18:47,629 - INFO - Downloading: 392GER.pdf
+2025-08-10 16:18:49,317 - INFO - Successfully downloaded: 392GER.pdf
+2025-08-10 16:18:49,818 - INFO - Progress: 405/523
+2025-08-10 16:18:49,818 - INFO - Downloading: 170GER.pdf
+2025-08-10 16:18:51,145 - INFO - Successfully downloaded: 170GER.pdf
+2025-08-10 16:18:51,651 - INFO - Progress: 406/523
+2025-08-10 16:18:51,651 - INFO - Downloading: 711GER.pdf
+2025-08-10 16:18:52,833 - INFO - Successfully downloaded: 711GER.pdf
+2025-08-10 16:18:53,335 - INFO - Progress: 407/523
+2025-08-10 16:18:53,335 - INFO - Downloading: 689GER.pdf
+2025-08-10 16:18:56,593 - INFO - Successfully downloaded: 689GER.pdf
+2025-08-10 16:18:57,099 - INFO - Progress: 408/523
+2025-08-10 16:18:57,099 - INFO - Downloading: 677GER.pdf
+2025-08-10 16:18:59,204 - INFO - Successfully downloaded: 677GER.pdf
+2025-08-10 16:18:59,709 - INFO - Progress: 409/523
+2025-08-10 16:18:59,709 - INFO - Downloading: 533GER.pdf
+2025-08-10 16:19:04,926 - INFO - Successfully downloaded: 533GER.pdf
+2025-08-10 16:19:05,433 - INFO - Progress: 410/523
+2025-08-10 16:19:05,433 - INFO - Downloading: 477GER.pdf
+2025-08-10 16:19:07,164 - INFO - Successfully downloaded: 477GER.pdf
+2025-08-10 16:19:07,670 - INFO - Progress: 411/523
+2025-08-10 16:19:07,671 - INFO - Downloading: 423GER.pdf
+2025-08-10 16:19:09,685 - INFO - Successfully downloaded: 423GER.pdf
+2025-08-10 16:19:10,190 - INFO - Progress: 412/523
+2025-08-10 16:19:10,190 - INFO - Downloading: 422GER.pdf
+2025-08-10 16:19:11,764 - INFO - Successfully downloaded: 422GER.pdf
+2025-08-10 16:19:12,268 - INFO - Progress: 413/523
+2025-08-10 16:19:12,269 - INFO - Downloading: 439GER.pdf
+2025-08-10 16:19:14,285 - INFO - Successfully downloaded: 439GER.pdf
+2025-08-10 16:19:14,790 - INFO - Progress: 414/523
+2025-08-10 16:19:14,791 - INFO - Downloading: 394GER.pdf
+2025-08-10 16:19:16,345 - INFO - Successfully downloaded: 394GER.pdf
+2025-08-10 16:19:16,847 - INFO - Progress: 415/523
+2025-08-10 16:19:16,847 - INFO - Downloading: 337GER.pdf
+2025-08-10 16:19:18,107 - INFO - Successfully downloaded: 337GER.pdf
+2025-08-10 16:19:18,607 - INFO - Progress: 416/523
+2025-08-10 16:19:18,608 - INFO - Downloading: 370GER.pdf
+2025-08-10 16:19:20,344 - INFO - Successfully downloaded: 370GER.pdf
+2025-08-10 16:19:20,845 - INFO - Progress: 417/523
+2025-08-10 16:19:20,845 - INFO - Downloading: 369GER.pdf
+2025-08-10 16:19:22,280 - INFO - Successfully downloaded: 369GER.pdf
+2025-08-10 16:19:22,783 - INFO - Progress: 418/523
+2025-08-10 16:19:22,784 - INFO - Downloading: 356GER.pdf
+2025-08-10 16:19:24,633 - INFO - Successfully downloaded: 356GER.pdf
+2025-08-10 16:19:25,135 - INFO - Progress: 419/523
+2025-08-10 16:19:25,135 - INFO - Downloading: 195GER.pdf
+2025-08-10 16:19:26,954 - INFO - Successfully downloaded: 195GER.pdf
+2025-08-10 16:19:27,455 - INFO - Progress: 420/523
+2025-08-10 16:19:27,455 - INFO - Downloading: 173GER.pdf
+2025-08-10 16:19:28,951 - INFO - Successfully downloaded: 173GER.pdf
+2025-08-10 16:19:29,454 - INFO - Progress: 421/523
+2025-08-10 16:19:29,454 - INFO - Downloading: 083GER.pdf
+2025-08-10 16:19:30,806 - INFO - Successfully downloaded: 083GER.pdf
+2025-08-10 16:19:31,310 - INFO - Progress: 422/523
+2025-08-10 16:19:31,310 - INFO - Downloading: 686GER.pdf
+2025-08-10 16:19:32,854 - INFO - Successfully downloaded: 686GER.pdf
+2025-08-10 16:19:33,358 - INFO - Progress: 423/523
+2025-08-10 16:19:33,358 - INFO - Downloading: 630GER.pdf
+2025-08-10 16:19:35,355 - INFO - Successfully downloaded: 630GER.pdf
+2025-08-10 16:19:35,860 - INFO - Progress: 424/523
+2025-08-10 16:19:35,860 - INFO - Downloading: 079GER.pdf
+2025-08-10 16:19:37,160 - INFO - Successfully downloaded: 079GER.pdf
+2025-08-10 16:19:37,663 - INFO - Progress: 425/523
+2025-08-10 16:19:37,663 - INFO - Downloading: 628GER.pdf
+2025-08-10 16:19:39,878 - INFO - Successfully downloaded: 628GER.pdf
+2025-08-10 16:19:40,383 - INFO - Progress: 426/523
+2025-08-10 16:19:40,383 - INFO - Downloading: 621GER.pdf
+2025-08-10 16:19:43,094 - INFO - Successfully downloaded: 621GER.pdf
+2025-08-10 16:19:43,596 - INFO - Progress: 427/523
+2025-08-10 16:19:43,596 - INFO - Downloading: 608GER.pdf
+2025-08-10 16:19:44,818 - INFO - Successfully downloaded: 608GER.pdf
+2025-08-10 16:19:45,341 - INFO - Progress: 428/523
+2025-08-10 16:19:45,341 - INFO - Downloading: 606GER.pdf
+2025-08-10 16:19:47,209 - INFO - Successfully downloaded: 606GER.pdf
+2025-08-10 16:19:47,713 - INFO - Progress: 429/523
+2025-08-10 16:19:47,713 - INFO - Downloading: 605GER.pdf
+2025-08-10 16:19:49,128 - INFO - Successfully downloaded: 605GER.pdf
+2025-08-10 16:19:49,634 - INFO - Progress: 430/523
+2025-08-10 16:19:49,634 - INFO - Downloading: 585GER.pdf
+2025-08-10 16:19:50,960 - INFO - Successfully downloaded: 585GER.pdf
+2025-08-10 16:19:51,462 - INFO - Progress: 431/523
+2025-08-10 16:19:51,462 - INFO - Downloading: 581GER.pdf
+2025-08-10 16:19:53,082 - INFO - Successfully downloaded: 581GER.pdf
+2025-08-10 16:19:53,591 - INFO - Progress: 432/523
+2025-08-10 16:19:53,591 - INFO - Downloading: 579GER.pdf
+2025-08-10 16:19:54,869 - INFO - Successfully downloaded: 579GER.pdf
+2025-08-10 16:19:55,374 - INFO - Progress: 433/523
+2025-08-10 16:19:55,374 - INFO - Downloading: 568GER.pdf
+2025-08-10 16:19:57,018 - INFO - Successfully downloaded: 568GER.pdf
+2025-08-10 16:19:57,520 - INFO - Progress: 434/523
+2025-08-10 16:19:57,520 - INFO - Downloading: 567GER.pdf
+2025-08-10 16:19:59,175 - INFO - Successfully downloaded: 567GER.pdf
+2025-08-10 16:19:59,678 - INFO - Progress: 435/523
+2025-08-10 16:19:59,679 - INFO - Downloading: 000GER_TrombosisEmbarazo.pdf
+2025-08-10 16:20:01,186 - INFO - Successfully downloaded: 000GER_TrombosisEmbarazo.pdf
+2025-08-10 16:20:01,688 - INFO - Progress: 436/523
+2025-08-10 16:20:01,688 - INFO - Downloading: 538GER.pdf
+2025-08-10 16:20:03,615 - INFO - Successfully downloaded: 538GER.pdf
+2025-08-10 16:20:04,117 - INFO - Progress: 437/523
+2025-08-10 16:20:04,117 - INFO - Downloading: 530GER.pdf
+2025-08-10 16:20:05,290 - INFO - Successfully downloaded: 530GER.pdf
+2025-08-10 16:20:05,795 - INFO - Progress: 438/523
+2025-08-10 16:20:05,796 - INFO - Downloading: 500GER.pdf
+2025-08-10 16:20:07,585 - INFO - Successfully downloaded: 500GER.pdf
+2025-08-10 16:20:08,087 - INFO - Progress: 439/523
+2025-08-10 16:20:08,087 - INFO - Downloading: 494GER.pdf
+2025-08-10 16:20:10,397 - INFO - Successfully downloaded: 494GER.pdf
+2025-08-10 16:20:10,901 - INFO - Progress: 440/523
+2025-08-10 16:20:10,902 - INFO - Downloading: 322GER.pdf
+2025-08-10 16:20:12,134 - INFO - Successfully downloaded: 322GER.pdf
+2025-08-10 16:20:12,640 - INFO - Progress: 441/523
+2025-08-10 16:20:12,640 - INFO - Downloading: 321GER.pdf
+2025-08-10 16:20:15,269 - ERROR - Attempt 1 failed for 321GER.pdf: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-08-10 16:20:16,274 - INFO - Downloading: 321GER.pdf
+2025-08-10 16:20:17,669 - INFO - Successfully downloaded: 321GER.pdf
+2025-08-10 16:20:18,180 - INFO - Progress: 442/523
+2025-08-10 16:20:18,181 - INFO - Downloading: 320GER.pdf
+2025-08-10 16:20:18,973 - INFO - Successfully downloaded: 320GER.pdf
+2025-08-10 16:20:19,475 - INFO - Progress: 443/523
+2025-08-10 16:20:19,475 - INFO - Downloading: 307GER.pdf
+2025-08-10 16:20:20,680 - INFO - Successfully downloaded: 307GER.pdf
+2025-08-10 16:20:21,185 - INFO - Progress: 444/523
+2025-08-10 16:20:21,185 - INFO - Downloading: 263GER.pdf
+2025-08-10 16:20:22,468 - INFO - Successfully downloaded: 263GER.pdf
+2025-08-10 16:20:22,971 - INFO - Progress: 445/523
+2025-08-10 16:20:22,971 - INFO - Downloading: 240GER.pdf
+2025-08-10 16:20:25,138 - INFO - Successfully downloaded: 240GER.pdf
+2025-08-10 16:20:25,643 - INFO - Progress: 446/523
+2025-08-10 16:20:25,643 - INFO - Downloading: 183GER.pdf
+2025-08-10 16:20:26,992 - INFO - Successfully downloaded: 183GER.pdf
+2025-08-10 16:20:27,493 - INFO - Progress: 447/523
+2025-08-10 16:20:27,493 - INFO - Downloading: 182GER.pdf
+2025-08-10 16:20:28,799 - INFO - Successfully downloaded: 182GER.pdf
+2025-08-10 16:20:29,304 - INFO - Progress: 448/523
+2025-08-10 16:20:29,304 - INFO - Downloading: 088GER.pdf
+2025-08-10 16:20:30,548 - INFO - Successfully downloaded: 088GER.pdf
+2025-08-10 16:20:31,058 - INFO - Progress: 449/523
+2025-08-10 16:20:31,064 - INFO - Downloading: 082GER.pdf
+2025-08-10 16:20:32,153 - INFO - Successfully downloaded: 082GER.pdf
+2025-08-10 16:20:32,658 - INFO - Progress: 450/523
+2025-08-10 16:20:32,658 - INFO - Downloading: 078GER.pdf
+2025-08-10 16:20:33,308 - INFO - Successfully downloaded: 078GER.pdf
+2025-08-10 16:20:33,810 - INFO - Progress: 451/523
+2025-08-10 16:20:33,810 - INFO - Downloading: 072GER.pdf
+2025-08-10 16:20:35,017 - INFO - Successfully downloaded: 072GER.pdf
+2025-08-10 16:20:35,518 - INFO - Progress: 452/523
+2025-08-10 16:20:35,519 - INFO - Downloading: 048GER.pdf
+2025-08-10 16:20:37,737 - INFO - Successfully downloaded: 048GER.pdf
+2025-08-10 16:20:38,242 - INFO - Progress: 453/523
+2025-08-10 16:20:38,242 - INFO - Downloading: 019GER.pdf
+2025-08-10 16:20:40,530 - INFO - Successfully downloaded: 019GER.pdf
+2025-08-10 16:20:41,032 - INFO - Progress: 454/523
+2025-08-10 16:20:41,033 - INFO - Downloading: 020GER.pdf
+2025-08-10 16:20:42,970 - INFO - Successfully downloaded: 020GER.pdf
+2025-08-10 16:20:43,472 - INFO - Progress: 455/523
+2025-08-10 16:20:43,472 - INFO - Downloading: 112GER.pdf
+2025-08-10 16:20:44,718 - INFO - Successfully downloaded: 112GER.pdf
+2025-08-10 16:20:45,223 - INFO - Progress: 456/523
+2025-08-10 16:20:45,223 - INFO - Downloading: 675GER.pdf
+2025-08-10 16:20:46,974 - INFO - Successfully downloaded: 675GER.pdf
+2025-08-10 16:20:47,479 - INFO - Progress: 457/523
+2025-08-10 16:20:47,480 - INFO - Downloading: 623GER.pdf
+2025-08-10 16:20:48,697 - INFO - Successfully downloaded: 623GER.pdf
+2025-08-10 16:20:49,200 - INFO - Progress: 458/523
+2025-08-10 16:20:49,201 - INFO - Downloading: 618GER.pdf
+2025-08-10 16:20:52,383 - INFO - Successfully downloaded: 618GER.pdf
+2025-08-10 16:20:52,887 - INFO - Progress: 459/523
+2025-08-10 16:20:52,888 - INFO - Downloading: 584GER.pdf
+2025-08-10 16:20:54,732 - INFO - Successfully downloaded: 584GER.pdf
+2025-08-10 16:20:55,238 - INFO - Progress: 460/523
+2025-08-10 16:20:55,238 - INFO - Downloading: 578GER.pdf
+2025-08-10 16:20:57,188 - INFO - Successfully downloaded: 578GER.pdf
+2025-08-10 16:20:57,691 - INFO - Progress: 461/523
+2025-08-10 16:20:57,691 - INFO - Downloading: 577GER.pdf
+2025-08-10 16:20:59,870 - INFO - Successfully downloaded: 577GER.pdf
+2025-08-10 16:21:00,375 - INFO - Progress: 462/523
+2025-08-10 16:21:00,375 - INFO - Downloading: 576GER.pdf
+2025-08-10 16:21:02,401 - INFO - Successfully downloaded: 576GER.pdf
+2025-08-10 16:21:02,906 - INFO - Progress: 463/523
+2025-08-10 16:21:02,906 - INFO - Downloading: 575GER.pdf
+2025-08-10 16:21:04,729 - INFO - Successfully downloaded: 575GER.pdf
+2025-08-10 16:21:05,233 - INFO - Progress: 464/523
+2025-08-10 16:21:05,233 - INFO - Downloading: 574GER.pdf
+2025-08-10 16:21:07,173 - INFO - Successfully downloaded: 574GER.pdf
+2025-08-10 16:21:07,675 - INFO - Progress: 465/523
+2025-08-10 16:21:07,675 - INFO - Downloading: 573GER.pdf
+2025-08-10 16:21:11,435 - INFO - Successfully downloaded: 573GER.pdf
+2025-08-10 16:21:11,937 - INFO - Progress: 466/523
+2025-08-10 16:21:11,938 - INFO - Downloading: 555GER.pdf
+2025-08-10 16:21:13,475 - INFO - Successfully downloaded: 555GER.pdf
+2025-08-10 16:21:13,976 - INFO - Progress: 467/523
+2025-08-10 16:21:13,977 - INFO - Downloading: 534GER.pdf
+2025-08-10 16:21:15,309 - INFO - Successfully downloaded: 534GER.pdf
+2025-08-10 16:21:15,811 - INFO - Progress: 468/523
+2025-08-10 16:21:15,812 - INFO - Downloading: 531GER.pdf
+2025-08-10 16:21:16,902 - INFO - Successfully downloaded: 531GER.pdf
+2025-08-10 16:21:17,404 - INFO - Progress: 469/523
+2025-08-10 16:21:17,405 - INFO - Downloading: 501GER.pdf
+2025-08-10 16:21:19,292 - INFO - Successfully downloaded: 501GER.pdf
+2025-08-10 16:21:19,797 - INFO - Progress: 470/523
+2025-08-10 16:21:19,797 - INFO - Downloading: 493GER.pdf
+2025-08-10 16:21:21,346 - INFO - Successfully downloaded: 493GER.pdf
+2025-08-10 16:21:21,851 - INFO - Progress: 471/523
+2025-08-10 16:21:21,852 - INFO - Downloading: 453GER.pdf
+2025-08-10 16:21:23,150 - INFO - Successfully downloaded: 453GER.pdf
+2025-08-10 16:21:23,654 - INFO - Progress: 472/523
+2025-08-10 16:21:23,654 - INFO - Downloading: 437GER.pdf
+2025-08-10 16:21:25,467 - INFO - Successfully downloaded: 437GER.pdf
+2025-08-10 16:21:25,970 - INFO - Progress: 473/523
+2025-08-10 16:21:25,971 - INFO - Downloading: 428GER.pdf
+2025-08-10 16:21:27,056 - INFO - Successfully downloaded: 428GER.pdf
+2025-08-10 16:21:27,561 - INFO - Progress: 474/523
+2025-08-10 16:21:27,561 - INFO - Downloading: 390GER.pdf
+2025-08-10 16:21:30,024 - INFO - Successfully downloaded: 390GER.pdf
+2025-08-10 16:21:30,529 - INFO - Progress: 475/523
+2025-08-10 16:21:30,529 - INFO - Downloading: 355GER.pdf
+2025-08-10 16:21:32,412 - INFO - Successfully downloaded: 355GER.pdf
+2025-08-10 16:21:32,918 - INFO - Progress: 476/523
+2025-08-10 16:21:32,918 - INFO - Downloading: 329GER.pdf
+2025-08-10 16:21:34,006 - INFO - Successfully downloaded: 329GER.pdf
+2025-08-10 16:21:34,511 - INFO - Progress: 477/523
+2025-08-10 16:21:34,511 - INFO - Downloading: 267GER.pdf
+2025-08-10 16:21:36,032 - INFO - Successfully downloaded: 267GER.pdf
+2025-08-10 16:21:36,535 - INFO - Progress: 478/523
+2025-08-10 16:21:36,536 - INFO - Downloading: 266GER.pdf
+2025-08-10 16:21:38,687 - INFO - Successfully downloaded: 266GER.pdf
+2025-08-10 16:21:39,193 - INFO - Progress: 479/523
+2025-08-10 16:21:39,193 - INFO - Downloading: 198GER.pdf
+2025-08-10 16:21:40,684 - INFO - Successfully downloaded: 198GER.pdf
+2025-08-10 16:21:41,188 - INFO - Progress: 480/523
+2025-08-10 16:21:41,189 - INFO - Downloading: 139GER.pdf
+2025-08-10 16:21:42,983 - INFO - Successfully downloaded: 139GER.pdf
+2025-08-10 16:21:43,487 - INFO - Progress: 481/523
+2025-08-10 16:21:43,487 - INFO - Downloading: 193GER.pdf
+2025-08-10 16:21:44,299 - INFO - Successfully downloaded: 193GER.pdf
+2025-08-10 16:21:44,804 - INFO - Progress: 482/523
+2025-08-10 16:21:44,804 - INFO - Downloading: 091GER.pdf
+2025-08-10 16:21:48,131 - INFO - Successfully downloaded: 091GER.pdf
+2025-08-10 16:21:48,635 - INFO - Progress: 483/523
+2025-08-10 16:21:48,635 - INFO - Downloading: 085GER.pdf
+2025-08-10 16:21:49,563 - INFO - Successfully downloaded: 085GER.pdf
+2025-08-10 16:21:50,066 - INFO - Progress: 484/523
+2025-08-10 16:21:50,066 - INFO - Downloading: 045GER.pdf
+2025-08-10 16:21:51,723 - INFO - Successfully downloaded: 045GER.pdf
+2025-08-10 16:21:52,226 - INFO - Progress: 485/523
+2025-08-10 16:21:52,226 - INFO - Downloading: 043GER.pdf
+2025-08-10 16:21:52,918 - INFO - Successfully downloaded: 043GER.pdf
+2025-08-10 16:21:53,423 - INFO - Progress: 486/523
+2025-08-10 16:21:53,423 - INFO - Downloading: 040GER.pdf
+2025-08-10 16:21:54,622 - INFO - Successfully downloaded: 040GER.pdf
+2025-08-10 16:21:55,123 - INFO - Progress: 487/523
+2025-08-10 16:21:55,124 - INFO - Downloading: 034GER.pdf
+2025-08-10 16:21:58,857 - INFO - Successfully downloaded: 034GER.pdf
+2025-08-10 16:21:59,362 - INFO - Progress: 488/523
+2025-08-10 16:21:59,362 - INFO - Downloading: 659GER.pdf
+2025-08-10 16:22:00,555 - INFO - Successfully downloaded: 659GER.pdf
+2025-08-10 16:22:01,058 - INFO - Progress: 489/523
+2025-08-10 16:22:01,059 - INFO - Downloading: 559GER.pdf
+2025-08-10 16:22:02,210 - INFO - Successfully downloaded: 559GER.pdf
+2025-08-10 16:22:02,716 - INFO - Progress: 490/523
+2025-08-10 16:22:02,717 - INFO - Downloading: 674GER.pdf
+2025-08-10 16:22:04,330 - INFO - Successfully downloaded: 674GER.pdf
+2025-08-10 16:22:04,834 - INFO - Progress: 491/523
+2025-08-10 16:22:04,835 - INFO - Downloading: 561GER.pdf
+2025-08-10 16:22:05,938 - INFO - Successfully downloaded: 561GER.pdf
+2025-08-10 16:22:06,440 - INFO - Progress: 492/523
+2025-08-10 16:22:06,440 - INFO - Downloading: 472GER.pdf
+2025-08-10 16:22:07,151 - INFO - Successfully downloaded: 472GER.pdf
+2025-08-10 16:22:07,655 - INFO - Progress: 493/523
+2025-08-10 16:22:07,656 - INFO - Downloading: 443GER.pdf
+2025-08-10 16:22:08,637 - INFO - Successfully downloaded: 443GER.pdf
+2025-08-10 16:22:09,140 - INFO - Progress: 494/523
+2025-08-10 16:22:09,140 - INFO - Downloading: 279GER.pdf
+2025-08-10 16:22:10,259 - INFO - Successfully downloaded: 279GER.pdf
+2025-08-10 16:22:10,762 - INFO - Progress: 495/523
+2025-08-10 16:22:10,763 - INFO - Downloading: 229GER.pdf
+2025-08-10 16:22:12,957 - INFO - Successfully downloaded: 229GER.pdf
+2025-08-10 16:22:13,462 - INFO - Progress: 496/523
+2025-08-10 16:22:13,462 - INFO - Downloading: 077GER.pdf
+2025-08-10 16:22:14,621 - INFO - Successfully downloaded: 077GER.pdf
+2025-08-10 16:22:15,122 - INFO - Progress: 497/523
+2025-08-10 16:22:15,122 - INFO - Downloading: 691GER.pdf
+2025-08-10 16:22:17,722 - INFO - Successfully downloaded: 691GER.pdf
+2025-08-10 16:22:18,227 - INFO - Progress: 498/523
+2025-08-10 16:22:18,227 - INFO - Downloading: 688GER.pdf
+2025-08-10 16:22:21,795 - INFO - Successfully downloaded: 688GER.pdf
+2025-08-10 16:22:22,300 - INFO - Progress: 499/523
+2025-08-10 16:22:22,300 - INFO - Downloading: 657GER.pdf
+2025-08-10 16:22:25,248 - INFO - Successfully downloaded: 657GER.pdf
+2025-08-10 16:22:25,748 - INFO - Progress: 500/523
+2025-08-10 16:22:25,749 - INFO - Downloading: 651GER.pdf
+2025-08-10 16:22:29,221 - INFO - Successfully downloaded: 651GER.pdf
+2025-08-10 16:22:29,728 - INFO - Progress: 501/523
+2025-08-10 16:22:29,728 - INFO - Downloading: 612GER.pdf
+2025-08-10 16:22:34,554 - INFO - Successfully downloaded: 612GER.pdf
+2025-08-10 16:22:35,059 - INFO - Progress: 502/523
+2025-08-10 16:22:35,059 - INFO - Downloading: 611GER.pdf
+2025-08-10 16:22:38,338 - INFO - Successfully downloaded: 611GER.pdf
+2025-08-10 16:22:38,840 - INFO - Progress: 503/523
+2025-08-10 16:22:38,841 - INFO - Downloading: 583GER.pdf
+2025-08-10 16:22:42,559 - INFO - Successfully downloaded: 583GER.pdf
+2025-08-10 16:22:43,061 - INFO - Progress: 504/523
+2025-08-10 16:22:43,061 - INFO - Downloading: 558GER.pdf
+2025-08-10 16:22:45,502 - INFO - Successfully downloaded: 558GER.pdf
+2025-08-10 16:22:46,007 - INFO - Progress: 505/523
+2025-08-10 16:22:46,007 - INFO - Downloading: 553GER.pdf
+2025-08-10 16:22:48,754 - INFO - Successfully downloaded: 553GER.pdf
+2025-08-10 16:22:49,259 - INFO - Progress: 506/523
+2025-08-10 16:22:49,259 - INFO - Downloading: 492GER.pdf
+2025-08-10 16:22:50,810 - INFO - Successfully downloaded: 492GER.pdf
+2025-08-10 16:22:51,314 - INFO - Progress: 507/523
+2025-08-10 16:22:51,314 - INFO - Downloading: 491GER.pdf
+2025-08-10 16:22:54,586 - INFO - Successfully downloaded: 491GER.pdf
+2025-08-10 16:22:55,090 - INFO - Progress: 508/523
+2025-08-10 16:22:55,090 - INFO - Downloading: 465GER.pdf
+2025-08-10 16:22:56,192 - INFO - Successfully downloaded: 465GER.pdf
+2025-08-10 16:22:56,696 - INFO - Progress: 509/523
+2025-08-10 16:22:56,697 - INFO - Downloading: 456GER.pdf
+2025-08-10 16:22:57,908 - INFO - Successfully downloaded: 456GER.pdf
+2025-08-10 16:22:58,409 - INFO - Progress: 510/523
+2025-08-10 16:22:58,409 - INFO - Downloading: 357GER.pdf
+2025-08-10 16:23:01,684 - INFO - Successfully downloaded: 357GER.pdf
+2025-08-10 16:23:02,189 - INFO - Progress: 511/523
+2025-08-10 16:23:02,190 - INFO - Downloading: 236GER.pdf
+2025-08-10 16:23:04,981 - INFO - Successfully downloaded: 236GER.pdf
+2025-08-10 16:23:05,486 - INFO - Progress: 512/523
+2025-08-10 16:23:05,487 - INFO - Downloading: 194GER.pdf
+2025-08-10 16:23:07,054 - INFO - Successfully downloaded: 194GER.pdf
+2025-08-10 16:23:07,556 - INFO - Progress: 513/523
+2025-08-10 16:23:07,557 - INFO - Downloading: 144GER.pdf
+2025-08-10 16:23:09,419 - INFO - Successfully downloaded: 144GER.pdf
+2025-08-10 16:23:09,924 - INFO - Progress: 514/523
+2025-08-10 16:23:09,924 - INFO - Downloading: 057GER.pdf
+2025-08-10 16:23:13,967 - INFO - Successfully downloaded: 057GER.pdf
+2025-08-10 16:23:14,467 - INFO - Progress: 515/523
+2025-08-10 16:23:14,468 - INFO - Downloading: 719GER.pdf
+2025-08-10 16:23:16,840 - INFO - Successfully downloaded: 719GER.pdf
+2025-08-10 16:23:17,344 - INFO - Progress: 516/523
+2025-08-10 16:23:17,344 - INFO - Downloading: 701GER.pdf
+2025-08-10 16:23:19,109 - INFO - Successfully downloaded: 701GER.pdf
+2025-08-10 16:23:19,614 - INFO - Progress: 517/523
+2025-08-10 16:23:19,615 - INFO - Downloading: 282GER.pdf
+2025-08-10 16:23:23,029 - INFO - Successfully downloaded: 282GER.pdf
+2025-08-10 16:23:23,534 - INFO - Progress: 518/523
+2025-08-10 16:23:23,535 - INFO - Downloading: 239GER.pdf
+2025-08-10 16:23:25,032 - INFO - Successfully downloaded: 239GER.pdf
+2025-08-10 16:23:25,533 - INFO - Progress: 519/523
+2025-08-10 16:23:25,533 - INFO - Downloading: 237GER.pdf
+2025-08-10 16:23:26,609 - INFO - Successfully downloaded: 237GER.pdf
+2025-08-10 16:23:27,115 - INFO - Progress: 520/523
+2025-08-10 16:23:27,115 - INFO - Downloading: 042GER.pdf
+2025-08-10 16:23:28,743 - INFO - Successfully downloaded: 042GER.pdf
+2025-08-10 16:23:29,244 - INFO - Progress: 521/523
+2025-08-10 16:23:29,244 - INFO - Downloading: 038GER.pdf
+2025-08-10 16:23:30,694 - INFO - Successfully downloaded: 038GER.pdf
+2025-08-10 16:23:31,196 - INFO - Progress: 522/523
+2025-08-10 16:23:31,196 - INFO - Downloading: 009GER.pdf
+2025-08-10 16:23:32,724 - INFO - Successfully downloaded: 009GER.pdf
+2025-08-10 16:23:33,225 - INFO - Progress: 523/523
+2025-08-10 16:23:33,226 - INFO - Downloading: 000GER_Asma.pdf
+2025-08-10 16:23:33,963 - INFO - Successfully downloaded: 000GER_Asma.pdf
+2025-08-10 16:23:34,465 - INFO - Download complete! Success: 523, Failed: 0
+2025-08-10 16:23:34,466 - INFO - PDFs saved in: /Users/seulsale/Development/personal/medicine-mx-scrapping/imss_pdfs
